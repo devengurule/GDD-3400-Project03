@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96911f91a5b9e81449bc0819a6f3d680, type: 3}
+  m_Name: HealItem
+  m_EditorClassIdentifier: 
+  itemType: 2
+  itemSprite: {fileID: 7382687442789277141, guid: 3458ee2c02e803f45b31d843748cb54b, type: 3}
+  healAmount: 2

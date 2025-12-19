@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e0bffde2e9ce25469938787fd4aefdf, type: 3}
+  m_Name: Thorn
+  m_EditorClassIdentifier: 
+  seedlingSprite: {fileID: 3159228473283099207, guid: db6f481029b5d304e80893d8476cab62, type: 3}
+  youngSprite: {fileID: -4690533838644002286, guid: 9012a60343cbbb34097f00c55bb96693, type: 3}
+  adultSprite: {fileID: -2354063158039847976, guid: 6c31af3ef12742444bd6c5a770fe93f6, type: 3}
+  seedlingTimer: 0
+  youngTimer: 0
+  adultTimer: 0
+  drop: {fileID: 11400000, guid: a585e427c086e77438261926b419bceb, type: 2}

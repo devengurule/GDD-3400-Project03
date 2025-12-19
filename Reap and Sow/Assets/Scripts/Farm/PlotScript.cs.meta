@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 81a2b3d9465bc7f418ed7f9656b85b86
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - currentPlant: {instanceID: 0}
+  - emptyPlotSprite: {fileID: 2037971933, guid: a314d5c63add14b4680a9d373d92c7fc, type: 3}
+  - seedlingSprite: {fileID: -7082420485514230939, guid: fd8c0445feabd154c8c51b202b05d8b4, type: 3}
+  - youngSprite: {fileID: 7703809176699919468, guid: 6f44a2f48445dfc41aecaa6f2d7225c6, type: 3}
+  - adultSprite: {fileID: 196927442530295363, guid: ad103ba3aeb63f541b4b086019af2bb1, type: 3}
+  - harvestableItem: {fileID: 11400000, guid: d9e3fb342fec16a4795c14f05a669715, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

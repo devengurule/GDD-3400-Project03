@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e52116c1070292b428a18bd40222cbba, type: 3}
+  m_Name: ShieldSeed
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemSprite: {fileID: -7770057479260419263, guid: 700e2c2ee9cc5444791a68f68ef8b5b6, type: 3}
+  plant: {fileID: 11400000, guid: d951421ccb2d3504b9756bf2f399a6e9, type: 2}

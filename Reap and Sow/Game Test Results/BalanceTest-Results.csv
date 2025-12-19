@@ -1,0 +1,13 @@
+time,event,phase,x,y,angle,dist,attempt,totalAttempts,elapsed,note
+Result,Room,Status,Health Start,Health End,Heals Used,Projectiles Used,Melee Attacks,Remaining Enemies,Time Minutes,Time Seconds,Total Elapsed Time
+Results: Starting Health =[10] Heals Used =[0] Damage Taken =[0] Projectiles Fired =[0] Melee Attacks =[1] Time =[1.83 seconds],"StartingRoom (0.0,-1.5)",Cleared,10,10,0,0,1,0,0,0,1.82678
+Results: Starting Health =[10] Heals Used =[0] Damage Taken =[1] Projectiles Fired =[0] Melee Attacks =[1] Time =[1.48 seconds],"StartingRoom (0.0,-1.5)",Cleared,10,9,0,0,1,0,0,0,1.482796
+Results: Starting Health =[10] Heals Used =[0] Damage Taken =[3] Projectiles Fired =[0] Melee Attacks =[5] Time =[7.31 seconds],"BranchingPath1 (0.0,-1.5)",Cleared,10,7,0,0,5,0,0,0,7.312832
+Results: Starting Health =[10] Heals Used =[3] Damage Taken =[2] Projectiles Fired =[1] Melee Attacks =[5] Time =[13.34 seconds],"BranchingPath1 (0.0,-1.5)",Cleared,10,8,3,1,5,0,0,0,13.3421
+Results: Starting Health =[10] Heals Used =[0] Damage Taken =[1] Projectiles Fired =[0] Melee Attacks =[6] Time =[7.00 seconds],"Branch1 (-3.3,0.0)",Cleared,10,9,0,0,6,0,0,0,7.001518
+Results: Starting Health =[10] Heals Used =[0] Damage Taken =[1] Projectiles Fired =[1] Melee Attacks =[6] Time =[7.32 seconds],"Branch1 (-3.3,0.0)",Cleared,10,9,0,1,6,0,0,0,7.320374
+Results: Starting Health =[10] Heals Used =[0] Damage Taken =[6] Projectiles Fired =[0] Melee Attacks =[6] Remaining Enemies =[2]Time =[1 minutes and 40.01 seconds],"BranchingPath2 (0.0,-1.5)",Timeout,10,4,0,0,6,2,0,0,100.0089
+Results: Starting Health =[10] Heals Used =[12] Damage Taken =[2] Projectiles Fired =[1] Melee Attacks =[19] Time =[7.71 seconds],"BranchingPath2 (0.0,-1.5)",Cleared,10,8,12,1,19,0,0,0,7.71312
+Results: Starting Health =[10] Heals Used =[0] Damage Taken =[1] Projectiles Fired =[0] Melee Attacks =[1] Time =[0.75 seconds],"StartingRoom (0.0,1.5)",Cleared,10,9,0,0,1,0,0,0,0.7494354
+Results: Starting Health =[10] Heals Used =[0] Damage Taken =[1] Projectiles Fired =[1] Melee Attacks =[1] Time =[0.91 seconds],"StartingRoom (0.0,1.5)",Cleared,10,9,0,1,1,0,0,0,0.9059906
+Results: Starting Health =[10] Heals Used =[0] Damage Taken =[4] Projectiles Fired =[0] Melee Attacks =[13] Time =[10.79 seconds],"BranchingPath1 (3.3,0.0)",Cleared,10,6,0,0,13,0,0,0,10.79408

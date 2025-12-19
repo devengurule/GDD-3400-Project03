@@ -1,0 +1,619 @@
+fileFormatVersion: 2
+guid: 98dbc12964497d64b9f0e20933384c84
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6078161339014401847
+    second: VineBarrierAnimation_0
+  - first:
+      213: 7670833931977792091
+    second: VineBarrierAnimation_1
+  - first:
+      213: 139344194089785520
+    second: VineBarrierAnimation_2
+  - first:
+      213: 8486104710494682922
+    second: VineBarrierAnimation_3
+  - first:
+      213: 2278612954798799341
+    second: VineBarrierAnimation_4
+  - first:
+      213: 5031737240486985397
+    second: VineBarrierAnimation_5
+  - first:
+      213: 8048114781728625530
+    second: VineBarrierAnimation_6
+  - first:
+      213: -5790583864974335500
+    second: VineBarrierAnimation_7
+  - first:
+      213: -2815775154416739655
+    second: VineBarrierAnimation_8
+  - first:
+      213: 1002414098508433800
+    second: VineBarrierAnimation_9
+  - first:
+      213: 5202140174780458694
+    second: VineBarrierAnimation_10
+  - first:
+      213: 1931451276103000618
+    second: VineBarrierAnimation_11
+  - first:
+      213: -467051583281661599
+    second: VineBarrierAnimation_12
+  - first:
+      213: 3355618319158872987
+    second: VineBarrierAnimation_13
+  - first:
+      213: 4364499888966354586
+    second: VineBarrierAnimation_14
+  - first:
+      213: 2070473577055913948
+    second: VineBarrierAnimation_15
+  - first:
+      213: 6597954061082521107
+    second: VineBarrierAnimation_16
+  - first:
+      213: 159889614010865839
+    second: VineBarrierAnimation_17
+  - first:
+      213: -5648449537945998139
+    second: VineBarrierAnimation_18
+  - first:
+      213: -5912661196522863526
+    second: VineBarrierAnimation_19
+  - first:
+      213: -7514618570474936719
+    second: VineBarrierAnimation_20
+  - first:
+      213: -2032206292104224101
+    second: VineBarrierAnimation_21
+  - first:
+      213: -4324009386044608768
+    second: VineBarrierAnimation_22
+  - first:
+      213: 7345352931550493310
+    second: VineBarrierAnimation_23
+  - first:
+      213: 8780013567424798429
+    second: VineBarrierAnimation_24
+  - first:
+      213: -2591226680105283396
+    second: VineBarrierAnimation_25
+  - first:
+      213: -2031072358581306502
+    second: VineBarrierAnimation_26
+  - first:
+      213: 7679838394150530430
+    second: VineBarrierAnimation_27
+  - first:
+      213: 6693022145415095731
+    second: VineBarrierAnimation_28
+  - first:
+      213: 2454756904090185062
+    second: VineBarrierAnimation_29
+  - first:
+      213: -2746718674672897251
+    second: VineBarrierAnimation_30
+  - first:
+      213: -3755863250593548597
+    second: VineBarrierAnimation_31
+  - first:
+      213: 6621064968296575983
+    second: VineBarrierAnimation_32
+  - first:
+      213: -2298602108143758529
+    second: VineBarrierAnimation_33
+  - first:
+      213: -6734349821432484503
+    second: VineBarrierAnimation_34
+  - first:
+      213: -4191107866831033198
+    second: VineBarrierAnimation_35
+  - first:
+      213: -2505895104161399111
+    second: VineBarrierAnimation_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VineBarrierAnimation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f477bc887f95450800000000000000
+      internalID: 6078161339014401847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineBarrierAnimation_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 160
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a9c8eb1d6447a60800000000000000
+      internalID: 7670833931977792091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineBarrierAnimation_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 160
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b81c366ecc0fe100800000000000000
+      internalID: 139344194089785520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineBarrierAnimation_3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 160
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ffdcbd543b4c570800000000000000
+      internalID: 8486104710494682922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineBarrierAnimation_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 160
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9b267e8624f9f10800000000000000
+      internalID: 2278612954798799341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineBarrierAnimation_5
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 160
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5beb4566c5254d540800000000000000
+      internalID: 5031737240486985397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineBarrierAnimation_6
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 160
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a735184d0c5a0bf60800000000000000
+      internalID: 8048114781728625530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineBarrierAnimation_7
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 0
+        width: 160
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1a81697a6b3afa0800000000000000
+      internalID: -5790583864974335500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineBarrierAnimation_8
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 160
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba9e996a6b5ce8d0800000000000000
+      internalID: -2815775154416739655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineBarrierAnimation_9
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 160
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8894073cf4a49ed00800000000000000
+      internalID: 1002414098508433800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineBarrierAnimation_10
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 160
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6e3954de6b13840800000000000000
+      internalID: 5202140174780458694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineBarrierAnimation_11
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 0
+        width: 160
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22281dc3b4edca10800000000000000
+      internalID: 1931451276103000618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineBarrierAnimation_12
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 160
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16976be3f03b489f0800000000000000
+      internalID: -467051583281661599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineBarrierAnimation_13
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 0
+        width: 160
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b024b151d819e20800000000000000
+      internalID: 3355618319158872987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineBarrierAnimation_14
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 0
+        width: 160
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9642106681d19c30800000000000000
+      internalID: 4364499888966354586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineBarrierAnimation_15
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 160
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7004d9fbccbbc10800000000000000
+      internalID: 2070473577055913948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineBarrierAnimation_16
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 160
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e6b27d244a09b50800000000000000
+      internalID: 6597954061082521107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4ca13a6eb5a6c1c43bf6d1a7fb3b2039
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VineBarrierAnimation_0: 6078161339014401847
+      VineBarrierAnimation_1: 7670833931977792091
+      VineBarrierAnimation_10: 5202140174780458694
+      VineBarrierAnimation_11: 1931451276103000618
+      VineBarrierAnimation_12: -467051583281661599
+      VineBarrierAnimation_13: 3355618319158872987
+      VineBarrierAnimation_14: 4364499888966354586
+      VineBarrierAnimation_15: 2070473577055913948
+      VineBarrierAnimation_16: 6597954061082521107
+      VineBarrierAnimation_2: 139344194089785520
+      VineBarrierAnimation_3: 8486104710494682922
+      VineBarrierAnimation_4: 2278612954798799341
+      VineBarrierAnimation_5: 5031737240486985397
+      VineBarrierAnimation_6: 8048114781728625530
+      VineBarrierAnimation_7: -5790583864974335500
+      VineBarrierAnimation_8: -2815775154416739655
+      VineBarrierAnimation_9: 1002414098508433800
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

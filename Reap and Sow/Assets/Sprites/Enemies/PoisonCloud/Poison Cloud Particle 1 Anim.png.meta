@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 7eae547ec0c656b4a92dffebc0a289b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1707217120917352053
+    second: Poison Cloud Particle 1 Anim_0
+  - first:
+      213: -341407724760656258
+    second: Poison Cloud Particle 1 Anim_1
+  - first:
+      213: -2264615341182811989
+    second: Poison Cloud Particle 1 Anim_2
+  - first:
+      213: 1802324483314829306
+    second: Poison Cloud Particle 1 Anim_3
+  - first:
+      213: 1727776000990688417
+    second: Poison Cloud Particle 1 Anim_4
+  - first:
+      213: -6503712382272976787
+    second: Poison Cloud Particle 1 Anim_5
+  - first:
+      213: -7129437304524314555
+    second: Poison Cloud Particle 1 Anim_6
+  - first:
+      213: 5307863595866625007
+    second: Poison Cloud Particle 1 Anim_7
+  - first:
+      213: 6803867886783359825
+    second: Poison Cloud Particle 1 Anim_8
+  - first:
+      213: -7275999136501083743
+    second: Poison Cloud Particle 1 Anim_9
+  - first:
+      213: 6813918514178377327
+    second: Poison Cloud Particle 1 Anim_10
+  - first:
+      213: -8033580267397504378
+    second: Poison Cloud Particle 1 Anim_11
+  - first:
+      213: -4898530758548065412
+    second: Poison Cloud Particle 1 Anim_12
+  - first:
+      213: -6830272553306532160
+    second: Poison Cloud Particle 1 Anim_13
+  - first:
+      213: -4845700464171634465
+    second: Poison Cloud Particle 1 Anim_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Poison Cloud Particle 1 Anim_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 251
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b819141e21fbe48e0800000000000000
+      internalID: -1707217120917352053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison Cloud Particle 1 Anim_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 251
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e761112bb73134bf0800000000000000
+      internalID: -341407724760656258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison Cloud Particle 1 Anim_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 251
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba006eb78587290e0800000000000000
+      internalID: -2264615341182811989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison Cloud Particle 1 Anim_3
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 251
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af748f58194230910800000000000000
+      internalID: 1802324483314829306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison Cloud Particle 1 Anim_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 167
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4be766e1b4af710800000000000000
+      internalID: 1727776000990688417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison Cloud Particle 1 Anim_5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 167
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d684f45eb0c2eb5a0800000000000000
+      internalID: -6503712382272976787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison Cloud Particle 1 Anim_6
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 167
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548e86f7b862f0d90800000000000000
+      internalID: -7129437304524314555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison Cloud Particle 1 Anim_7
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 167
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe39bd371d159a940800000000000000
+      internalID: 5307863595866625007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison Cloud Particle 1 Anim_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 83
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15be86a6bc13c6e50800000000000000
+      internalID: 6803867886783359825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison Cloud Particle 1 Anim_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 83
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1ddc2d555760b90800000000000000
+      internalID: -7275999136501083743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison Cloud Particle 1 Anim_10
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 83
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f664f0679c6ef8e50800000000000000
+      internalID: 6813918514178377327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison Cloud Particle 1 Anim_11
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 83
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6822f2f7f4df28090800000000000000
+      internalID: -8033580267397504378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison Cloud Particle 1 Anim_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73fa678a3ce40cb0800000000000000
+      internalID: -4898530758548065412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison Cloud Particle 1 Anim_13
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c650151d4ff531a0800000000000000
+      internalID: -6830272553306532160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison Cloud Particle 1 Anim_14
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 0
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0ba19f91d90ccb0800000000000000
+      internalID: -4845700464171634465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Poison Cloud Particle 1 Anim_0: -1707217120917352053
+      Poison Cloud Particle 1 Anim_1: -341407724760656258
+      Poison Cloud Particle 1 Anim_10: 6813918514178377327
+      Poison Cloud Particle 1 Anim_11: -8033580267397504378
+      Poison Cloud Particle 1 Anim_12: -4898530758548065412
+      Poison Cloud Particle 1 Anim_13: -6830272553306532160
+      Poison Cloud Particle 1 Anim_14: -4845700464171634465
+      Poison Cloud Particle 1 Anim_2: -2264615341182811989
+      Poison Cloud Particle 1 Anim_3: 1802324483314829306
+      Poison Cloud Particle 1 Anim_4: 1727776000990688417
+      Poison Cloud Particle 1 Anim_5: -6503712382272976787
+      Poison Cloud Particle 1 Anim_6: -7129437304524314555
+      Poison Cloud Particle 1 Anim_7: 5307863595866625007
+      Poison Cloud Particle 1 Anim_8: 6803867886783359825
+      Poison Cloud Particle 1 Anim_9: -7275999136501083743
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

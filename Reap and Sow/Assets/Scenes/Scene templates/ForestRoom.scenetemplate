@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13966, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: ForestRoom
+  m_EditorClassIdentifier: 
+  templateScene: {fileID: 102900000, guid: ede80f054d022eb4e9a2471d83e38196, type: 3}
+  templateName: 
+  description: 
+  preview: {fileID: 0}
+  dependencies:
+  - dependency: {fileID: 2800000, guid: 1826ebfbb4fede64e9b822111be1de20, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 11400000, guid: d2b78738211e70242a74265812777e09, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 3455118638188997230, guid: d744fc8526e683b4d9f9f97746986d25, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 11400000, guid: c174e0795d800df49877d3fe664ad176, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 11400000, guid: 1b91641fa4a182a4f9738826d7dde89a, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 11400000, guid: 71949ee394a7981478b45cba5409c153, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 11400000, guid: 91ca2b7ee1298c3439718e42a98025cb, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 11400000, guid: b831b9cfcaacdd74f9de06eb2344a235, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 11400000, guid: 9924ccc02bc7b774a804d7cc9b4c7ff1, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 11400000, guid: d897eaee0fbca8c4493107768df95988, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 11400000, guid: 489cecf9d5501134aa84cfcb58525472, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 2800000, guid: f513a6cfc44db92489ba44ef92e282ca, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 11400000, guid: b28062d77bdfbd945971c9eda4d31b07, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 11400000, guid: 8ed797e545d86ed4b8a05534c0f3d16e, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 11400000, guid: 73660eefbf4400846909ee203dd32e18, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 11400000, guid: 429911fdb17c82d4d93f92c603dd4433, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 2800000, guid: 70c9a84ce3b8c714e84e042efe9c3e5d, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 11400000, guid: 3ef716f818cad274894fe506f088868c, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 11400000, guid: b3bf4926318378f488db94e823fe39ec, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 8829073573687578309, guid: b5ecfe22c59c1dd43b52b10adcd01191, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 11400000, guid: 4ce186d688adf0d4181de8be02ffdce0, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 11400000, guid: aff8435c3f7b00f47ad71ee2f1667158, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 11400000, guid: 615084a5fbec7b8459ecd07cd584a17c, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 8829073573687578309, guid: 66a545ae9064468458a93c8217b8ddff, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 43e746a4c54d64747bd16833a2c8591e, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: e4360ba23cf311a42a76825f456ced20, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 11400000, guid: 8f5d4bbc8d8e443478b4b656afc5ee50, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 11400000, guid: ab3f338a3684a234890512fa1c3b823c, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 11400000, guid: f41eb71b72a32a046b7a87d6f23f5768, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 5974228585633355175, guid: 6e30429fb4b7b69448289afa17861ce5, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 11400000, guid: cc428d9b7c0ff2b4d8f1b4e94e63e8db, type: 2}
+    instantiationMode: 1
+  templatePipeline: {fileID: 0}
+  badge: {fileID: 0}
+  addToDefaults: 1

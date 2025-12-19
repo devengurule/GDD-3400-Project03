@@ -1,0 +1,1044 @@
+.BaseButton:hover {
+    justify-content: flex-start;
+    align-self: center;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-width: 20px;
+    border-right-width: 150px;
+    border-bottom-width: 20px;
+    border-left-width: 150px;
+    border-left-color: rgba(255, 255, 255, 0);
+    border-right-color: rgba(255, 255, 255, 0);
+    border-top-color: rgba(255, 255, 255, 0);
+    border-bottom-color: rgba(255, 255, 255, 0);
+    padding-top: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-image: url("project://database/Assets/Sprites/UI%20Elements/UI%20box%20(1)%20(1).png?fileID=2800000&guid=0f3cb9e9a61c2c54ba85b18180fa8f7d&type=3#UI box (1) (1)");
+    background-color: rgba(0, 0, 0, 0);
+    -unity-background-image-tint-color: rgb(255, 201, 0);
+    -unity-font-definition: url("project://database/Assets/UI/Fonts/BoldPixels1.4.ttf?fileID=12800000&guid=dee0f08e868fbb64db250156907793be&type=3#BoldPixels1.4");
+    -unity-font-style: bold-and-italic;
+    -unity-text-outline-width: 4px;
+    -unity-text-outline-color: rgb(119, 67, 0);
+    color: rgb(129, 121, 0);
+    letter-spacing: 16px;
+    word-spacing: 0;
+    font-size: 38px;
+    -unity-text-align: middle-center;
+    background-size: 100% 135%;
+}
+
+.BaseButton {
+    justify-content: flex-start;
+    align-self: center;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-width: 20px;
+    border-right-width: 100px;
+    border-bottom-width: 20px;
+    border-left-width: 100px;
+    border-left-color: rgba(255, 255, 255, 0);
+    border-right-color: rgba(255, 255, 255, 0);
+    border-top-color: rgba(255, 255, 255, 0);
+    border-bottom-color: rgba(255, 255, 255, 0);
+    padding-top: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-image: url("project://database/Assets/Sprites/UI%20Elements/UI%20box%20(1)%20(1).png?fileID=2800000&guid=0f3cb9e9a61c2c54ba85b18180fa8f7d&type=3#UI box (1) (1)");
+    background-color: rgba(0, 0, 0, 0);
+    -unity-background-image-tint-color: rgba(0, 0, 0, 0);
+    -unity-font-definition: url("project://database/Assets/UI/Fonts/BoldPixels1.4.ttf?fileID=12800000&guid=dee0f08e868fbb64db250156907793be&type=3#BoldPixels1.4");
+    -unity-font-style: bold-and-italic;
+    -unity-text-outline-width: 2px;
+    -unity-text-outline-color: rgb(255, 200, 0);
+    color: rgb(63, 32, 6);
+    letter-spacing: 16px;
+    word-spacing: 0;
+    font-size: 35px;
+    -unity-text-align: middle-center;
+    transition-duration: 0.2s;
+    transition-timing-function: ease-in-out-bounce;
+    opacity: 1;
+    background-size: 0 0;
+    background-position-x: center 0;
+    background-position-y: center 0;
+    -unity-slice-scale: 1px;
+    margin-right: 0;
+    background-repeat: no-repeat no-repeat;
+}
+
+.BaseButton:active {
+    justify-content: flex-start;
+    align-self: center;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-width: 20px;
+    border-right-width: 100px;
+    border-bottom-width: 20px;
+    border-left-width: 100px;
+    border-left-color: rgba(255, 255, 255, 0);
+    border-right-color: rgba(255, 255, 255, 0);
+    border-top-color: rgba(255, 255, 255, 0);
+    border-bottom-color: rgba(255, 255, 255, 0);
+    padding-top: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-image: none;
+    background-color: rgba(0, 0, 0, 0);
+    -unity-background-image-tint-color: rgb(255, 243, 140);
+    -unity-font-definition: url("project://database/Assets/TextMesh%20Pro/Fonts/LiberationSans.ttf?fileID=12800000&guid=e3265ab4bf004d28a9537516768c1c75&type=3#LiberationSans");
+    -unity-font-style: bold-and-italic;
+    -unity-text-outline-width: 3px;
+    -unity-text-outline-color: rgba(61, 56, 45, 0);
+    color: rgba(255, 211, 49, 0);
+    letter-spacing: 16px;
+    word-spacing: 0;
+    font-size: 25px;
+    -unity-text-align: middle-center;
+    transition-duration: 0s;
+    transition-timing-function: ease-in-out;
+}
+
+.logoAnim {
+    transition-timing-function: ease-in-out-bounce;
+    transition-duration: 0s;
+}
+
+.logoAnim:enabled {
+    flex-grow: 1;
+    background-image: url("project://database/Assets/Sprites/UI%20Elements/fulllogo.png?fileID=2800000&guid=1ea67ca4f001f574e922bfae29357eef&type=3#fulllogo");
+    border-top-width: 0;
+    border-right-width: 0;
+    border-left-width: 0;
+    border-bottom-width: 0;
+    align-self: center;
+    height: 319px;
+    width: 426px;
+    align-content: flex-start;
+    justify-content: flex-start;
+    align-items: auto;
+    flex-direction: column;
+    max-height: 300px;
+    max-width: none;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-top: 0;
+    margin-bottom: 120px;
+    -unity-background-image-tint-color: rgb(255, 211, 49);
+    color: rgb(255, 211, 49);
+    -unity-text-outline-color: rgb(0, 0, 0);
+    -unity-text-outline-width: 0;
+    background-repeat: no-repeat no-repeat;
+    background-color: rgba(0, 0, 0, 0);
+    transition-timing-function: ease;
+    rotate: 0;
+    translate: 0 0;
+    scale: 1 1;
+}
+
+VisualElement > .unity-group-box > #Quality > .unity-popup-field__label {
+    background-image: none;
+    background-color: rgba(0, 0, 0, 0);
+    border-left-color: rgba(0, 0, 0, 0);
+    border-right-color: rgba(0, 0, 0, 0);
+    border-top-color: rgba(0, 0, 0, 0);
+    border-bottom-color: rgba(0, 0, 0, 0);
+    font-size: 45px;
+    color: rgb(123, 80, 31);
+    -unity-text-outline-width: 2px;
+    -unity-text-outline-color: rgb(89, 56, 18);
+    -unity-font-definition: url("project://database/Assets/UI/Fonts/BoldPixels1.4.ttf?fileID=12800000&guid=dee0f08e868fbb64db250156907793be&type=3#BoldPixels1.4");
+}
+
+VisualElement > .unity-group-box > #Quality > .unity-popup-field__input {
+    -unity-background-image-tint-color: rgb(255, 255, 255);
+    background-image: none;
+    border-left-color: rgba(0, 0, 0, 0);
+    border-right-color: rgba(0, 0, 0, 0);
+    border-top-color: rgba(0, 0, 0, 0);
+    border-bottom-color: rgba(0, 0, 0, 0);
+    background-color: rgb(186, 133, 71);
+    background-size: 150% 60%;
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+    border-bottom-right-radius: 18px;
+    border-bottom-left-radius: 18px;
+    font-size: 25px;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    height: 35px;
+    align-self: center;
+    padding-bottom: 9px;
+    -unity-text-align: upper-left;
+    background-position-x: center 0;
+    -unity-font-style: normal;
+    -unity-font-definition: url("project://database/Assets/UI/Fonts/BoldPixels1.4.ttf?fileID=12800000&guid=dee0f08e868fbb64db250156907793be&type=3#BoldPixels1.4");
+}
+
+VisualElement > .unity-group-box > #Quality > .unity-popup-field__input > .unity-base-popup-field__text {
+    background-image: none;
+    background-size: 300% 500%;
+    font-size: 20px;
+    border-left-color: rgb(0, 0, 0);
+    border-right-color: rgb(0, 0, 0);
+    border-top-color: rgb(0, 0, 0);
+    border-bottom-color: rgb(0, 0, 0);
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    -unity-slice-scale: 1px;
+    -unity-background-image-tint-color: rgb(255, 255, 255);
+    transition-duration: 0.2s;
+    transition-timing-function: ease-in-out-bounce;
+    align-self: auto;
+    align-content: flex-start;
+    align-items: stretch;
+    -unity-font-style: normal;
+    border-top-width: 0;
+    border-bottom-width: 0;
+    -unity-text-outline-width: 1px;
+    -unity-font-definition: url("project://database/Assets/UI/Fonts/BoldPixels1.4.ttf?fileID=12800000&guid=dee0f08e868fbb64db250156907793be&type=3#BoldPixels1.4");
+}
+
+.baseDropDown {
+    justify-content: center;
+    align-content: center;
+    align-items: stretch;
+    margin-top: 2px;
+    font-size: 20px;
+    -unity-background-image-tint-color: rgba(255, 255, 255, 0);
+    background-color: rgba(0, 0, 0, 0);
+    border-left-color: rgb(0, 0, 0);
+    border-right-color: rgb(0, 0, 0);
+    border-top-color: rgb(0, 0, 0);
+    border-bottom-color: rgb(0, 0, 0);
+    align-self: auto;
+    background-image: none;
+    -unity-font-definition: url("project://database/Assets/UI/Fonts/BoldPixels1.4.ttf?fileID=12800000&guid=dee0f08e868fbb64db250156907793be&type=3#BoldPixels1.4");
+    color: rgb(89, 56, 18);
+    -unity-text-outline-width: 1px;
+    -unity-text-outline-color: rgb(89, 56, 18);
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    background-size: 100% 100%;
+    scale: 1 1;
+    transition-duration: 0.1s;
+    transition-timing-function: ease-in-out-bounce;
+    margin-right: 0;
+}
+
+.baseDropDown:hover {
+    justify-content: center;
+    align-content: center;
+    align-items: stretch;
+    margin-top: 2px;
+    font-size: 20px;
+    -unity-background-image-tint-color: rgba(255, 255, 255, 0);
+    background-color: rgba(0, 0, 0, 0);
+    border-left-color: rgb(0, 0, 0);
+    border-right-color: rgb(0, 0, 0);
+    border-top-color: rgb(0, 0, 0);
+    border-bottom-color: rgb(0, 0, 0);
+    align-self: auto;
+    background-image: none;
+    -unity-font-definition: url("project://database/Assets/UI/Fonts/BoldPixels1.4.ttf?fileID=12800000&guid=dee0f08e868fbb64db250156907793be&type=3#BoldPixels1.4");
+    color: rgb(128, 86, 39);
+    -unity-text-outline-width: 2px;
+    -unity-text-outline-color: rgb(128, 86, 39);
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    border-bottom-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+    background-size: 100% 100%;
+    scale: 1 1;
+    margin-right: -6px;
+}
+
+.baseDropDown:active {
+    justify-content: center;
+    align-content: center;
+    align-items: stretch;
+    margin-top: 2px;
+    font-size: 20px;
+    -unity-background-image-tint-color: rgba(255, 255, 255, 0);
+    background-color: rgba(0, 0, 0, 0);
+    border-left-color: rgb(0, 0, 0);
+    border-right-color: rgb(0, 0, 0);
+    border-top-color: rgb(0, 0, 0);
+    border-bottom-color: rgb(0, 0, 0);
+    align-self: auto;
+    background-image: none;
+    -unity-font-definition: url("project://database/Assets/UI/Fonts/BoldPixels1.4.ttf?fileID=12800000&guid=dee0f08e868fbb64db250156907793be&type=3#BoldPixels1.4");
+    color: rgba(186, 133, 71, 0);
+    -unity-text-outline-width: 2px;
+    -unity-text-outline-color: rgba(186, 133, 71, 0);
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    border-bottom-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+    background-size: 100% 100%;
+    scale: 1 1;
+    margin-right: -6px;
+    transition-timing-function: ease-in-out;
+    opacity: 1;
+}
+
+VisualElement > .unity-group-box > #Texture > .unity-popup-field__label {
+    background-image: none;
+    background-color: rgba(0, 0, 0, 0);
+    border-left-color: rgba(0, 0, 0, 0);
+    border-right-color: rgba(0, 0, 0, 0);
+    border-top-color: rgba(0, 0, 0, 0);
+    border-bottom-color: rgba(0, 0, 0, 0);
+    font-size: 50px;
+    color: rgb(117, 76, 29);
+    -unity-text-outline-width: 2px;
+    -unity-text-outline-color: rgb(89, 56, 18);
+    -unity-font-definition: url("project://database/Assets/UI/Fonts/BoldPixels1.4.ttf?fileID=12800000&guid=dee0f08e868fbb64db250156907793be&type=3#BoldPixels1.4");
+    -unity-font-style: bold;
+}
+
+VisualElement > .unity-group-box > #Texture > .unity-popup-field__input {
+    -unity-background-image-tint-color: rgb(255, 255, 255);
+    background-image: none;
+    border-left-color: rgba(0, 0, 0, 0);
+    border-right-color: rgba(0, 0, 0, 0);
+    border-top-color: rgba(0, 0, 0, 0);
+    border-bottom-color: rgba(0, 0, 0, 0);
+    background-color: rgb(186, 133, 71);
+    background-size: 150% 60%;
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+    border-bottom-right-radius: 18px;
+    border-bottom-left-radius: 18px;
+    font-size: 25px;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+    -unity-text-align: upper-center;
+    width: auto;
+    height: 35px;
+    align-self: center;
+    border-right-width: 0;
+    border-left-width: 0;
+    -unity-font-style: normal;
+}
+
+VisualElement > .unity-group-box > #Texture > .unity-popup-field__input > .unity-base-popup-field__text {
+    background-image: none;
+    background-size: 300% 100%;
+    font-size: 25px;
+    border-left-color: rgb(0, 0, 0);
+    border-right-color: rgb(0, 0, 0);
+    border-top-color: rgb(0, 0, 0);
+    border-bottom-color: rgb(0, 0, 0);
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    -unity-slice-scale: 1px;
+    -unity-background-image-tint-color: rgb(255, 255, 255);
+    transition-duration: 0.2s;
+    transition-timing-function: ease-in-out-bounce;
+}
+
+.BaseBookBox {
+    justify-content: flex-start;
+    align-self: center;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-width: 20px;
+    border-right-width: 100px;
+    border-bottom-width: 20px;
+    border-left-width: 100px;
+    border-left-color: rgba(255, 255, 255, 0);
+    border-right-color: rgba(255, 255, 255, 0);
+    border-top-color: rgba(255, 255, 255, 0);
+    border-bottom-color: rgba(255, 255, 255, 0);
+    padding-top: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-image: url("project://database/Assets/Sprites/HUD/UI%20box%20attempt%203.png?fileID=2800000&guid=cc42abbfabdcebb4f9b2c6756f01c69c&type=3#UI box attempt 3");
+    background-color: rgba(0, 0, 0, 0);
+    -unity-background-image-tint-color: rgba(0, 0, 0, 0);
+    -unity-font-definition: url("project://database/Assets/UI/Fonts/BoldPixels1.4.ttf?fileID=12800000&guid=dee0f08e868fbb64db250156907793be&type=3#BoldPixels1.4");
+    -unity-font-style: bold-and-italic;
+    -unity-text-outline-width: 2px;
+    -unity-text-outline-color: rgb(89, 56, 18);
+    color: rgb(123, 80, 31);
+    letter-spacing: 16px;
+    word-spacing: 0;
+    font-size: 35px;
+    -unity-text-align: middle-center;
+    transition-duration: 0.2s;
+    transition-timing-function: ease-in-out-bounce;
+    opacity: 1;
+}
+
+.BaseBookBox:hover {
+    justify-content: flex-start;
+    align-self: center;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-width: 20px;
+    border-right-width: 100px;
+    border-bottom-width: 20px;
+    border-left-width: 100px;
+    border-left-color: rgba(255, 255, 255, 0);
+    border-right-color: rgba(255, 255, 255, 0);
+    border-top-color: rgba(255, 255, 255, 0);
+    border-bottom-color: rgba(255, 255, 255, 0);
+    padding-top: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-image: url("project://database/Assets/Sprites/HUD/UI%20box%20attempt%203.png?fileID=2800000&guid=cc42abbfabdcebb4f9b2c6756f01c69c&type=3#UI box attempt 3");
+    background-color: rgba(0, 0, 0, 0);
+    -unity-background-image-tint-color: rgba(0, 0, 0, 0);
+    -unity-font-definition: url("project://database/Assets/UI/Fonts/BoldPixels1.4.ttf?fileID=12800000&guid=dee0f08e868fbb64db250156907793be&type=3#BoldPixels1.4");
+    -unity-font-style: bold-and-italic;
+    -unity-text-outline-width: 5px;
+    -unity-text-outline-color: rgb(128, 85, 36);
+    color: rgb(173, 127, 74);
+    letter-spacing: 16px;
+    word-spacing: 0;
+    font-size: 37px;
+    -unity-text-align: middle-center;
+    transition-duration: 0.2s;
+    transition-timing-function: ease-in-out-bounce;
+    opacity: 1;
+    align-content: flex-start;
+    align-items: stretch;
+}
+
+.BaseBookBox:active {
+    justify-content: flex-start;
+    align-self: center;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-width: 20px;
+    border-right-width: 100px;
+    border-bottom-width: 20px;
+    border-left-width: 100px;
+    border-left-color: rgba(255, 255, 255, 0);
+    border-right-color: rgba(255, 255, 255, 0);
+    border-top-color: rgba(255, 255, 255, 0);
+    border-bottom-color: rgba(255, 255, 255, 0);
+    padding-top: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-image: url("project://database/Assets/Sprites/HUD/UI%20box%20attempt%203.png?fileID=2800000&guid=cc42abbfabdcebb4f9b2c6756f01c69c&type=3#UI box attempt 3");
+    background-color: rgba(0, 0, 0, 0);
+    -unity-background-image-tint-color: rgba(0, 0, 0, 0);
+    -unity-font-definition: url("project://database/Assets/UI/Fonts/BoldPixels1.4.ttf?fileID=12800000&guid=dee0f08e868fbb64db250156907793be&type=3#BoldPixels1.4");
+    -unity-font-style: bold-and-italic;
+    -unity-text-outline-width: 5px;
+    -unity-text-outline-color: rgb(228, 180, 125);
+    color: rgb(228, 180, 125);
+    letter-spacing: 16px;
+    word-spacing: 0;
+    font-size: 35px;
+    -unity-text-align: middle-center;
+    transition-duration: 0.1s;
+    transition-timing-function: ease-in-out-bounce;
+    opacity: 1;
+}
+
+VisualElement > .unity-group-box > #Master > .unity-slider__input > #unity-drag-container > #unity-dragger {
+    -unity-background-image-tint-color: rgba(47, 17, 17, 0);
+    background-color: rgb(65, 63, 48);
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    color: rgb(27, 27, 27);
+    -unity-text-align: upper-left;
+    background-image: none;
+    background-size: 100% 100%;
+    margin-top: -7px;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    width: 25px;
+    height: 25px;
+    margin-left: 25px;
+    -unity-font-style: normal;
+}
+
+VisualElement > .unity-group-box > #Master > .unity-slider__input > #unity-drag-container > #unity-tracker {
+    -unity-background-image-tint-color: rgb(255, 255, 255);
+    background-color: rgb(190, 138, 77);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    opacity: 1;
+    -unity-slice-scale: 1px;
+    background-size: 100% 100%;
+    white-space: normal;
+    -unity-text-align: upper-left;
+    margin-top: -12px;
+    align-self: auto;
+    align-content: flex-start;
+    justify-content: flex-start;
+    align-items: auto;
+    width: 135px;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    flex-shrink: 1;
+    height: 35px;
+    margin-right: 0;
+    margin-left: 14px;
+    margin-bottom: 0;
+    -unity-font-style: normal;
+}
+
+.BaseSlider {
+    width: 300px;
+    justify-content: center;
+    align-self: center;
+    align-items: stretch;
+    align-content: auto;
+    -unity-font-definition: url("project://database/Assets/UI/Fonts/BoldPixels1.4.ttf?fileID=12800000&guid=dee0f08e868fbb64db250156907793be&type=3#BoldPixels1.4");
+    font-size: 45px;
+    color: rgb(123, 80, 31);
+    -unity-text-outline-color: rgb(89, 56, 18);
+    -unity-text-outline-width: 2px;
+    -unity-text-align: upper-left;
+    white-space: normal;
+    padding-right: 0;
+    margin-left: 15px;
+    margin-right: 0;
+    -unity-background-image-tint-color: rgb(255, 255, 255);
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    opacity: 0.9;
+    background-color: rgba(0, 0, 0, 0);
+    transition-duration: 0.2s;
+    transition-timing-function: ease-in-out-bounce;
+    -unity-font-style: bold;
+}
+
+.BaseSlider:hover {
+    width: 300px;
+    justify-content: center;
+    align-self: center;
+    align-items: stretch;
+    align-content: auto;
+    -unity-font-definition: url("project://database/Assets/UI/Fonts/BoldPixels1.4.ttf?fileID=12800000&guid=dee0f08e868fbb64db250156907793be&type=3#BoldPixels1.4");
+    font-size: 45px;
+    color: rgb(123, 80, 31);
+    -unity-text-outline-color: rgb(123, 80, 31);
+    -unity-text-outline-width: 2px;
+    -unity-text-align: upper-left;
+    white-space: normal;
+    padding-right: 0;
+    margin-left: 22px;
+    margin-right: 0;
+    -unity-background-image-tint-color: rgb(255, 255, 255);
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    opacity: 0.9;
+    background-color: rgba(0, 0, 0, 0);
+    margin-bottom: 0;
+    transition-duration: 0.2s;
+    transition-timing-function: ease-in-out-bounce;
+}
+
+.BaseTabButton {
+    justify-content: flex-start;
+    align-self: center;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-width: 20px;
+    border-right-width: 100px;
+    border-bottom-width: 20px;
+    border-left-width: 100px;
+    border-left-color: rgba(255, 255, 255, 0);
+    border-right-color: rgba(255, 255, 255, 0);
+    border-top-color: rgba(255, 255, 255, 0);
+    border-bottom-color: rgba(255, 255, 255, 0);
+    padding-top: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-image: url("project://database/Assets/Sprites/HUD/UI%20box%20attempt%203.png?fileID=2800000&guid=cc42abbfabdcebb4f9b2c6756f01c69c&type=3#UI box attempt 3");
+    background-color: rgba(0, 0, 0, 0);
+    -unity-background-image-tint-color: rgba(0, 0, 0, 0);
+    -unity-font-definition: url("project://database/Assets/UI/Fonts/BoldPixels1.4.ttf?fileID=12800000&guid=dee0f08e868fbb64db250156907793be&type=3#BoldPixels1.4");
+    -unity-font-style: bold-and-italic;
+    -unity-text-outline-width: 5px;
+    -unity-text-outline-color: rgb(123, 80, 31);
+    color: rgb(123, 80, 31);
+    letter-spacing: 16px;
+    word-spacing: 0;
+    font-size: 18px;
+    -unity-text-align: middle-center;
+    transition-duration: 0.2s;
+    transition-timing-function: ease-in-out-bounce;
+    opacity: 1;
+}
+
+.BaseTabButton {
+    justify-content: flex-start;
+    align-self: center;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-width: 20px;
+    border-right-width: 100px;
+    border-bottom-width: 20px;
+    border-left-width: 100px;
+    border-left-color: rgba(255, 255, 255, 0);
+    border-right-color: rgba(255, 255, 255, 0);
+    border-top-color: rgba(255, 255, 255, 0);
+    border-bottom-color: rgba(255, 255, 255, 0);
+    padding-top: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-image: url("project://database/Assets/Sprites/HUD/UI%20box%20attempt%203.png?fileID=2800000&guid=cc42abbfabdcebb4f9b2c6756f01c69c&type=3#UI box attempt 3");
+    background-color: rgba(0, 0, 0, 0);
+    -unity-background-image-tint-color: rgba(0, 0, 0, 0);
+    -unity-font-definition: url("project://database/Assets/UI/Fonts/BoldPixels1.4.ttf?fileID=12800000&guid=dee0f08e868fbb64db250156907793be&type=3#BoldPixels1.4");
+    -unity-font-style: bold-and-italic;
+    -unity-text-outline-width: 5px;
+    -unity-text-outline-color: rgb(123, 80, 31);
+    color: rgb(123, 80, 31);
+    letter-spacing: 16px;
+    word-spacing: 0;
+    font-size: 18px;
+    -unity-text-align: middle-center;
+    transition-duration: 0.2s;
+    transition-timing-function: ease-in-out-bounce;
+    opacity: 1;
+}
+
+.BaseTabSetup {
+    -unity-background-image-tint-color: rgb(255, 211, 164);
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    -unity-slice-scale: 1px;
+    background-color: rgba(0, 0, 0, 0);
+    background-image: url("project://database/Assets/Sprites/HUD/TabSelected.png?fileID=2800000&guid=26f8c56632d5dcb4c9e271d01a295eb6&type=3#TabSelected");
+    background-size: 50% 100%;
+    align-content: flex-start;
+    align-self: center;
+    justify-content: flex-start;
+    align-items: stretch;
+    flex-shrink: 0;
+    width: auto;
+    -unity-font-style: bold-and-italic;
+    margin-left: -32px;
+    -unity-text-align: middle-center;
+    border-bottom-width: 30px;
+    border-top-width: 10px;
+    opacity: 1;
+    font-size: 18px;
+    transition-duration: 0.2s;
+    transition-timing-function: ease-in-out-bounce;
+    color: rgb(123, 80, 31);
+    -unity-text-outline-color: rgb(89, 56, 18);
+    -unity-text-outline-width: 1px;
+    -unity-font-definition: url("project://database/Assets/UI/Fonts/BoldPixels1.4.ttf?fileID=12800000&guid=dee0f08e868fbb64db250156907793be&type=3#BoldPixels1.4");
+}
+
+.BaseTabSetup:hover {
+    -unity-background-image-tint-color: rgb(255, 211, 164);
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    -unity-slice-scale: 1px;
+    background-color: rgba(0, 0, 0, 0);
+    background-image: url("project://database/Assets/Sprites/HUD/TabSelected.png?fileID=2800000&guid=26f8c56632d5dcb4c9e271d01a295eb6&type=3#TabSelected");
+    background-size: 50% 100%;
+    align-content: flex-start;
+    align-self: center;
+    justify-content: flex-start;
+    align-items: stretch;
+    flex-shrink: 0;
+    width: auto;
+    -unity-font-style: bold-and-italic;
+    margin-left: -32px;
+    -unity-text-align: middle-center;
+    border-bottom-width: 30px;
+    border-top-width: 10px;
+    opacity: 1;
+    font-size: 19px;
+    transition-duration: 0.2s;
+    transition-timing-function: ease-in-out-bounce;
+    -unity-text-outline-color: rgb(128, 85, 36);
+    color: rgb(173, 127, 74);
+    -unity-text-outline-width: 5px;
+}
+
+.BaseTabSetup:active {
+    -unity-background-image-tint-color: rgb(255, 211, 164);
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    -unity-slice-scale: 1px;
+    background-color: rgba(0, 0, 0, 0);
+    background-image: url("project://database/Assets/Sprites/HUD/TabSelected.png?fileID=2800000&guid=26f8c56632d5dcb4c9e271d01a295eb6&type=3#TabSelected");
+    background-size: 50% 100%;
+    align-content: flex-start;
+    align-self: center;
+    justify-content: flex-start;
+    align-items: stretch;
+    flex-shrink: 0;
+    width: auto;
+    -unity-font-style: bold-and-italic;
+    margin-left: -32px;
+    -unity-text-align: middle-center;
+    border-bottom-width: 30px;
+    border-top-width: 10px;
+    opacity: 1;
+    font-size: 19px;
+    transition-duration: 0.2s;
+    transition-timing-function: ease-in-out-bounce;
+    -unity-text-outline-color: rgba(128, 85, 36, 0);
+    color: rgba(173, 127, 74, 0);
+    -unity-text-outline-width: 5px;
+}
+
+VisualElement > .unity-group-box > #SFX > .unity-slider__input > #unity-drag-container > #unity-dragger {
+    -unity-background-image-tint-color: rgba(47, 17, 17, 0);
+    background-color: rgb(65, 63, 48);
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    color: rgb(27, 27, 27);
+    -unity-text-align: upper-left;
+    background-image: none;
+    background-size: 100% 100%;
+    margin-top: -7px;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    width: 25px;
+    height: 25px;
+    margin-left: 25px;
+}
+
+VisualElement > .unity-group-box > #SFX > .unity-slider__input > #unity-drag-container > #unity-tracker {
+    -unity-background-image-tint-color: rgb(255, 255, 255);
+    background-color: rgb(190, 138, 77);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    opacity: 1;
+    -unity-slice-scale: 1px;
+    background-size: 100% 100%;
+    white-space: normal;
+    -unity-text-align: upper-left;
+    margin-top: -12px;
+    align-self: auto;
+    align-content: flex-start;
+    justify-content: flex-start;
+    align-items: auto;
+    width: 135px;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    flex-shrink: 1;
+    height: 35px;
+    margin-right: 0;
+    margin-left: 14px;
+    margin-bottom: 0;
+}
+
+VisualElement > .unity-group-box > #Music > .unity-slider__input > #unity-drag-container > #unity-dragger {
+    -unity-background-image-tint-color: rgba(47, 17, 17, 0);
+    background-color: rgb(65, 63, 48);
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    color: rgb(27, 27, 27);
+    -unity-text-align: upper-left;
+    background-image: none;
+    background-size: 100% 100%;
+    margin-top: -7px;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    width: 25px;
+    height: 25px;
+    margin-left: 25px;
+}
+
+VisualElement > .unity-group-box > #Music > .unity-slider__input > #unity-drag-container > #unity-tracker {
+    -unity-background-image-tint-color: rgb(255, 255, 255);
+    background-color: rgb(190, 138, 77);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    opacity: 1;
+    -unity-slice-scale: 1px;
+    background-size: 100% 100%;
+    white-space: normal;
+    -unity-text-align: upper-left;
+    margin-top: -12px;
+    align-self: auto;
+    align-content: flex-start;
+    justify-content: flex-start;
+    align-items: auto;
+    width: 135px;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    flex-shrink: 1;
+    height: 35px;
+    margin-right: 0;
+    margin-left: 14px;
+    margin-bottom: 0;
+}
+
+.Basicbook {
+    flex-grow: 1;
+    background-color: rgba(38, 31, 0, 0);
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-left-width: 0;
+    border-top-width: 0;
+    background-size: 100% 90%;
+    margin-top: 0;
+    margin-right: 350px;
+    margin-left: 350px;
+    background-image: url("project://database/Assets/Sprites/HUD/BookTabs.png?fileID=2800000&guid=ed4d18b211069fa4e95a7f70354452b3&type=3#BookTabs");
+    -unity-background-image-tint-color: rgb(255, 211, 164);
+    scale: 1 1;
+    transition-timing-function: ease-in-out-back;
+    transition-duration: 0.5s;
+    opacity: 0;
+    transform-origin: center;
+    flex-shrink: 1;
+    translate: 0 1000px;
+}
+
+.Basicbook:enabled {
+    flex-grow: 1;
+    background-color: rgba(38, 31, 0, 0);
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-left-width: 0;
+    border-top-width: 0;
+    background-size: 100% 90%;
+    margin-top: 0;
+    margin-right: 350px;
+    margin-left: 350px;
+    background-image: url("project://database/Assets/Sprites/HUD/BookTabs.png?fileID=2800000&guid=ed4d18b211069fa4e95a7f70354452b3&type=3#BookTabs");
+    -unity-background-image-tint-color: rgb(255, 211, 164);
+    scale: 1 1;
+    transition-timing-function: ease-in-out-back;
+    transition-duration: 0.5s;
+    opacity: 1;
+    translate: 0 0;
+}
+
+.Basicbook.fade-out {
+    flex-grow: 1;
+    background-color: rgba(38, 31, 0, 0);
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-left-width: 0;
+    border-top-width: 0;
+    background-size: 100% 90%;
+    margin-top: 0;
+    margin-right: 350px;
+    margin-left: 350px;
+    background-image: url("project://database/Assets/Sprites/HUD/BookTabs.png?fileID=2800000&guid=ed4d18b211069fa4e95a7f70354452b3&type=3#BookTabs");
+    -unity-background-image-tint-color: rgb(255, 211, 164);
+    scale: 1 1;
+    transition-timing-function: ease-in-out-bounce;
+    transition-duration: 0.5s;
+    opacity: 0;
+    transform-origin: center;
+    flex-shrink: 1;
+    translate: 0 1000px;
+}
+
+.basicmainmenu {
+    flex-grow: 1;
+    scale: 1 1;
+    translate: -1000px 0;
+    transition-duration: 0.5s;
+    transition-timing-function: ease-in-out-back;
+}
+
+.basicmainmenu:enabled {
+    flex-grow: 1;
+    scale: 1 1;
+    translate: 0 0;
+    transition-duration: 0.5s;
+    transition-timing-function: ease-in-out-back;
+}
+
+.fadetoblack.fade-in {
+    flex-grow: 1;
+    background-image: url("project://database/Assets/Sprites/UI%20Elements/FadeSquare.png?fileID=2800000&guid=23d191765262a75418e57a7717feaf4d&type=3#FadeSquare");
+    width: auto;
+    -unity-background-image-tint-color: rgb(0, 0, 0);
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-left-width: 0;
+    translate: 0 0;
+    transition-timing-function: linear;
+    transition-delay: 0s;
+    transition-duration: 0.5s;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+#BasicBook > .unity-group-box > #Texture > .unity-popup-field__input > .unity-base-popup-field__text {
+    scale: 1 1;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-left-width: 0;
+    background-size: 100% 100%;
+    margin-right: -100px;
+}
+
+.fadetoblack {
+    flex-grow: 1;
+    background-image: url("project://database/Assets/Sprites/UI%20Elements/FadeSquare.png?fileID=2800000&guid=23d191765262a75418e57a7717feaf4d&type=3#FadeSquare");
+    width: auto;
+    -unity-background-image-tint-color: rgba(0, 0, 0, 0);
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-left-width: 0;
+    translate: 0 0;
+    transition-timing-function: linear;
+    transition-delay: 0s;
+    transition-duration: 0.5s;
+    border-left-color: rgba(0, 0, 0, 0);
+    border-right-color: rgba(0, 0, 0, 0);
+    border-top-color: rgba(0, 0, 0, 0);
+    border-bottom-color: rgba(0, 0, 0, 0);
+    background-color: rgba(0, 0, 0, 0);
+    opacity: 1;
+}
+
+.fadetoblack.fade-out {
+    flex-grow: 1;
+    background-image: url("project://database/Assets/Sprites/UI%20Elements/FadeSquare.png?fileID=2800000&guid=23d191765262a75418e57a7717feaf4d&type=3#FadeSquare");
+    width: auto;
+    -unity-background-image-tint-color: rgba(0, 0, 0, 0);
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-left-width: 0;
+    translate: 0 0;
+    transition-timing-function: linear;
+    transition-delay: 0s;
+    transition-duration: 0.5s;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.CreditsRoll {
+    flex-grow: 1;
+    margin-right: 0;
+    margin-bottom: 0;
+    transform-origin: center;
+    translate: 0 1500px;
+    transition-duration: 1000s;
+    transition-timing-function: linear;
+}
+
+.CreditsRoll:enabled {
+    flex-grow: 1;
+    margin-right: 0;
+    margin-bottom: 0;
+    transform-origin: center;
+    translate: 0 -3000px;
+    transition-duration: 1000s;
+    transition-timing-function: linear;
+}
+
+.BaseButton:disabled {
+    justify-content: flex-start;
+    align-self: center;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-width: 20px;
+    border-right-width: 100px;
+    border-bottom-width: 20px;
+    border-left-width: 100px;
+    border-left-color: rgba(255, 255, 255, 0);
+    border-right-color: rgba(255, 255, 255, 0);
+    border-top-color: rgba(255, 255, 255, 0);
+    border-bottom-color: rgba(255, 255, 255, 0);
+    padding-top: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-image: url("project://database/Assets/Sprites/UI%20Elements/UI%20box%20(1)%20(1).png?fileID=2800000&guid=0f3cb9e9a61c2c54ba85b18180fa8f7d&type=3#UI box (1) (1)");
+    background-color: rgba(0, 0, 0, 0);
+    -unity-background-image-tint-color: rgba(0, 0, 0, 0);
+    -unity-font-definition: url("project://database/Assets/UI/Fonts/BoldPixels1.4.ttf?fileID=12800000&guid=dee0f08e868fbb64db250156907793be&type=3#BoldPixels1.4");
+    -unity-font-style: bold-and-italic;
+    -unity-text-outline-width: 2px;
+    -unity-text-outline-color: rgb(255, 200, 0);
+    color: rgb(63, 32, 6);
+    letter-spacing: 16px;
+    word-spacing: 0;
+    font-size: 35px;
+    -unity-text-align: middle-center;
+    transition-duration: 0.2s;
+    transition-timing-function: ease-in-out-bounce;
+    opacity: 0;
+    background-size: 0 0;
+    background-position-x: center 0;
+    background-position-y: center 0;
+    -unity-slice-scale: 1px;
+    margin-right: 0;
+    background-repeat: no-repeat no-repeat;
+}

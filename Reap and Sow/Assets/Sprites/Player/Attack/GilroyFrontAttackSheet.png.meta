@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: c0fd865b83a6a734494f4970550f536d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 301603663963137552
+    second: GilroyFrontAttackSheet 1_0
+  - first:
+      213: 3783361868248997340
+    second: GilroyFrontAttackSheet 1_1
+  - first:
+      213: -2255031014395533122
+    second: GilroyFrontAttackSheet 1_2
+  - first:
+      213: -394059578734710984
+    second: GilroyFrontAttackSheet 1_3
+  - first:
+      213: 7126166365016714874
+    second: GilroyFrontAttackSheet 1_4
+  - first:
+      213: -105745498350319076
+    second: GilroyFrontAttackSheet 1_5
+  - first:
+      213: -1932573806129356834
+    second: GilroyFrontAttackSheet 1_6
+  - first:
+      213: -2316846711157411536
+    second: GilroyFrontAttackSheet 1_7
+  - first:
+      213: 3982561702284942085
+    second: GilroyFrontAttackSheet 1_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GilroyFrontAttackSheet 1_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 37
+        width: 40
+        height: 26
+      alignment: 9
+      pivot: {x: 0.6875, y: 0.5192308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016aa753fe28f2400800000000000000
+      internalID: 301603663963137552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GilroyFrontAttackSheet 1_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 29
+        width: 37
+        height: 32
+      alignment: 9
+      pivot: {x: 0.6891892, y: 0.671875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd5db5f293318430800000000000000
+      internalID: 3783361868248997340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GilroyFrontAttackSheet 1_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 23
+        width: 30
+        height: 35
+      alignment: 9
+      pivot: {x: 0.65, y: 0.7857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb827757d3584b0e0800000000000000
+      internalID: -2255031014395533122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GilroyFrontAttackSheet 1_3
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 16
+        width: 26
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5961539, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f6d25a6e4088af0800000000000000
+      internalID: -394059578734710984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GilroyFrontAttackSheet 1_4
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 16
+        width: 24
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5208333, y: 0.7666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e682d8d8a35e260800000000000000
+      internalID: 7126166365016714874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GilroyFrontAttackSheet 1_5
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 17
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.328125, y: 0.7613636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a8b3e8701588ef0800000000000000
+      internalID: -105745498350319076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GilroyFrontAttackSheet 1_6
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 20
+        width: 35
+        height: 43
+      alignment: 9
+      pivot: {x: 0.3, y: 0.7093023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf5f6fcc5e1e25e0800000000000000
+      internalID: -1932573806129356834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GilroyFrontAttackSheet 1_7
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 27
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: 0.2625, y: 0.6351351}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0313e6ef038e8dfd0800000000000000
+      internalID: -2316846711157411536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GilroyFrontAttackSheet 1_8
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 37
+        width: 41
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2804878, y: 0.4821429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bd4c884c6e44730800000000000000
+      internalID: 3982561702284942085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: de1a929e5dd596a448704b20cf39767d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GilroyFrontAttackSheet 1_0: 301603663963137552
+      GilroyFrontAttackSheet 1_1: 3783361868248997340
+      GilroyFrontAttackSheet 1_2: -2255031014395533122
+      GilroyFrontAttackSheet 1_3: -394059578734710984
+      GilroyFrontAttackSheet 1_4: 7126166365016714874
+      GilroyFrontAttackSheet 1_5: -105745498350319076
+      GilroyFrontAttackSheet 1_6: -1932573806129356834
+      GilroyFrontAttackSheet 1_7: -2316846711157411536
+      GilroyFrontAttackSheet 1_8: 3982561702284942085
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

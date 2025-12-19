@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 092808840383d3e4ea26179b1598aeb3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4599359716221686430
+    second: PineCone Explosion_0
+  - first:
+      213: -8992083384696566442
+    second: PineCone Explosion_1
+  - first:
+      213: -3895842428394278365
+    second: PineCone Explosion_2
+  - first:
+      213: -3620499276684542758
+    second: PineCone Explosion_3
+  - first:
+      213: -8029353148707213865
+    second: PineCone Explosion_4
+  - first:
+      213: -4485811853102388057
+    second: PineCone Explosion_5
+  - first:
+      213: 6711098408287367090
+    second: PineCone Explosion_6
+  - first:
+      213: -7237718066830042976
+    second: PineCone Explosion_7
+  - first:
+      213: 2895921131402735976
+    second: PineCone Explosion_8
+  - first:
+      213: 842100531978299510
+    second: PineCone Explosion_9
+  - first:
+      213: -8978035914085931827
+    second: PineCone Explosion_10
+  - first:
+      213: -2127421616493654448
+    second: PineCone Explosion_11
+  - first:
+      213: 3522083148218696366
+    second: PineCone Explosion_12
+  - first:
+      213: -4389960997079777715
+    second: PineCone Explosion_13
+  - first:
+      213: -2548580168143650272
+    second: PineCone Explosion_14
+  - first:
+      213: 2302705669555322659
+    second: PineCone Explosion_15
+  - first:
+      213: -2977593199149791824
+    second: PineCone Explosion_16
+  - first:
+      213: -8607089761136043692
+    second: PineCone Explosion_17
+  - first:
+      213: 68420866053845542
+    second: PineCone Explosion_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PineCone Explosion_0
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 23
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9292af1b4534df30800000000000000
+      internalID: 4599359716221686430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PineCone Explosion_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 86
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d0870cdc3b53380800000000000000
+      internalID: -8992083384696566442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PineCone Explosion_2
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 46
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322f9a2d3ff2fe9c0800000000000000
+      internalID: -3895842428394278365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PineCone Explosion_3
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 45
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adcb8af071761cdc0800000000000000
+      internalID: -3620499276684542758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PineCone Explosion_4
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 42
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd64234ad1029090800000000000000
+      internalID: -8029353148707213865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PineCone Explosion_5
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 68
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac689ee2e13fb1c0800000000000000
+      internalID: -4485811853102388057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PineCone Explosion_6
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 75
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf68a6027c922d50800000000000000
+      internalID: 6711098408287367090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PineCone Explosion_7
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 37
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a81b2ae3c57e8b90800000000000000
+      internalID: -7237718066830042976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PineCone Explosion_8
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 52
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861becefce0603820800000000000000
+      internalID: 2895921131402735976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PineCone Explosion_9
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 52
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678ebb1e8fdbfab00800000000000000
+      internalID: 842100531978299510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PineCone Explosion_10
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 31
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4653067eb976380800000000000000
+      internalID: -8978035914085931827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PineCone Explosion_11
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 38
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e8865bf41e972e0800000000000000
+      internalID: -2127421616493654448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PineCone Explosion_12
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 53
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea207f666f3f0e030800000000000000
+      internalID: 3522083148218696366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PineCone Explosion_13
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 53
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e7d3f6bb9b313c0800000000000000
+      internalID: -4389960997079777715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PineCone Explosion_14
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 51
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022413c07df91acd0800000000000000
+      internalID: -2548580168143650272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PineCone Explosion_15
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 50
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f7f103b9ad4ff10800000000000000
+      internalID: 2302705669555322659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PineCone Explosion_16
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 48
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5ce07e2c67da6d0800000000000000
+      internalID: -2977593199149791824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PineCone Explosion_17
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 54
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459959de6797d8880800000000000000
+      internalID: -8607089761136043692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PineCone Explosion_18
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 14
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6223d584a6413f000800000000000000
+      internalID: 68420866053845542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PineCone Explosion_0: 4599359716221686430
+      PineCone Explosion_1: -8992083384696566442
+      PineCone Explosion_10: -8978035914085931827
+      PineCone Explosion_11: -2127421616493654448
+      PineCone Explosion_12: 3522083148218696366
+      PineCone Explosion_13: -4389960997079777715
+      PineCone Explosion_14: -2548580168143650272
+      PineCone Explosion_15: 2302705669555322659
+      PineCone Explosion_16: -2977593199149791824
+      PineCone Explosion_17: -8607089761136043692
+      PineCone Explosion_18: 68420866053845542
+      PineCone Explosion_2: -3895842428394278365
+      PineCone Explosion_3: -3620499276684542758
+      PineCone Explosion_4: -8029353148707213865
+      PineCone Explosion_5: -4485811853102388057
+      PineCone Explosion_6: 6711098408287367090
+      PineCone Explosion_7: -7237718066830042976
+      PineCone Explosion_8: 2895921131402735976
+      PineCone Explosion_9: 842100531978299510
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

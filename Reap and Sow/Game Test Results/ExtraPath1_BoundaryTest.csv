@@ -1,0 +1,31 @@
+time,event,phase,x,y,angle,dist,attempt,totalAttempts,elapsed,note
+3619.58,SessionStart,BoundaryTest,,,,,,,,"minDir=20 maxAttempts=40 attemptDur=0.20s minDistPerAttempt=0.10 roamMinDist=0.15 roamDur=0.75s leniency=102 % bounds=(-3.62,-2.04)�(3.64,2.04)"
+3619.73,Info,Roam,0.44,-1.17,,,,,0.15,progress >= 0.15
+3619.82,Info,Roam,0.56,-1.05,,,,,0.24,progress >= 0.15
+3619.91,Info,Roam,0.67,-0.94,,,,,0.33,progress >= 0.15
+3620.01,Info,Roam,0.79,-0.83,,,,,0.43,progress >= 0.15
+3620.11,Info,Roam,0.91,-0.71,,,,,0.53,progress >= 0.15
+3620.20,Info,Roam,1.03,-0.59,,,,,0.62,progress >= 0.15
+3620.30,Info,Roam,1.15,-0.47,,,,,0.72,progress >= 0.15
+3620.39,Info,Roam,1.26,-0.35,,,,,0.81,progress >= 0.15
+3620.49,Info,Roam,1.38,-0.23,,,,,0.91,progress >= 0.15
+3620.58,Info,Roam,1.50,-0.12,,,,,1.00,progress >= 0.15
+3620.68,Info,Roam,1.62,0.00,,,,,1.10,progress >= 0.15
+3620.77,Info,Roam,1.74,0.12,,,,,1.19,progress >= 0.15
+3620.87,Info,Roam,1.86,0.24,,,,,1.29,progress >= 0.15
+3620.96,Info,Roam,1.97,0.35,,,,,1.38,progress >= 0.15
+3621.06,Info,Roam,2.09,0.47,,,,,1.48,progress >= 0.15
+3621.16,Info,Roam,2.21,0.59,,,,,1.57,progress >= 0.15
+3621.25,Info,Roam,2.32,0.71,,,,,1.67,progress >= 0.15
+3621.35,Info,Roam,2.44,0.83,,,,,1.77,progress >= 0.15
+3621.44,Info,Roam,2.56,0.94,,,,,1.86,progress >= 0.15
+3621.54,Info,Roam,2.68,1.07,,,,,1.96,progress >= 0.15
+3621.63,Info,Roam,2.80,1.18,,,,,2.05,progress >= 0.15
+3621.73,Info,Roam,2.91,1.30,,,,,2.15,progress >= 0.15
+3621.82,Info,Roam,3.03,1.42,,,,,2.24,progress >= 0.15
+3621.92,Info,Roam,3.15,1.54,,,,,2.34,progress >= 0.15
+3622.15,Info,Roam,3.30,1.58,,,,,2.57,progress >= 0.15
+3622.50,Info,Roam,3.45,1.55,,,,,2.92,progress >= 0.15
+3622.83,Info,Roam,3.61,1.54,,,,,3.25,progress >= 0.15
+3622.88,Escaped,Boundary,3.65,1.54,,,,,,
+3622.88,Fail,Result,3.65,1.54,,,,,3.30,escaped bounds

@@ -1,0 +1,21 @@
+.fade-in {
+    animation-name: FadeInAnim;
+    animation-duration: 0.8s;
+    animation-fill-mode: forwards;
+}
+
+.fade-out {
+    animation-name: FadeOutAnim;
+    animation-duration: 0.8s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes FadeInAnim {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+@keyframes FadeOutAnim {
+    from { opacity: 1; }
+    to { opacity: 0; }
+}

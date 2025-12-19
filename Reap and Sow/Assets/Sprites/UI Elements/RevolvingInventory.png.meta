@@ -1,0 +1,309 @@
+fileFormatVersion: 2
+guid: 029f5113772b827479cdc80818a8b617
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 46527415738567358
+    second: RevolvingInventory_0
+  - first:
+      213: -4079574044559739969
+    second: RevolvingInventory_1
+  - first:
+      213: 434142740804922535
+    second: RevolvingInventory_2
+  - first:
+      213: 5506252931437591080
+    second: RevolvingInventory_3
+  - first:
+      213: 1987295571199664719
+    second: RevolvingInventory_4
+  - first:
+      213: 7157437208724741298
+    second: RevolvingInventory_5
+  - first:
+      213: -5986396796329529681
+    second: RevolvingInventory_6
+  - first:
+      213: 7318415416716223046
+    second: RevolvingInventory_7
+  - first:
+      213: -6081512875627253002
+    second: RevolvingInventory_8
+  - first:
+      213: -5956373747679386645
+    second: RevolvingInventory_9
+  - first:
+      213: 7797628846645082140
+    second: RevolvingInventory_10
+  - first:
+      213: -8406660765419344380
+    second: RevolvingInventory_11
+  - first:
+      213: 8252724044935863892
+    second: RevolvingInventory_12
+  - first:
+      213: 6548695569120642370
+    second: RevolvingInventory_13
+  - first:
+      213: 1013984281829704595
+    second: RevolvingInventory_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RevolvingInventory_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 56
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba0a67207c45a000800000000000000
+      internalID: 46527415738567358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RevolvingInventory_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 56
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3fc1f55017267c0800000000000000
+      internalID: -4079574044559739969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RevolvingInventory_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 56
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aced77c582660600800000000000000
+      internalID: 434142740804922535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RevolvingInventory_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a7ac52ed32a6c40800000000000000
+      internalID: 5506252931437591080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RevolvingInventory_4
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 55
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f422019faca449b10800000000000000
+      internalID: 1987295571199664719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RevolvingInventory_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 56
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc93383833545360800000000000000
+      internalID: 7157437208724741298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e668a9dca1f3de6408ce83e13214b27f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RevolvingInventory_0: 46527415738567358
+      RevolvingInventory_1: -4079574044559739969
+      RevolvingInventory_10: 7797628846645082140
+      RevolvingInventory_11: -8406660765419344380
+      RevolvingInventory_12: 8252724044935863892
+      RevolvingInventory_13: 6548695569120642370
+      RevolvingInventory_14: 1013984281829704595
+      RevolvingInventory_2: 434142740804922535
+      RevolvingInventory_3: 5506252931437591080
+      RevolvingInventory_4: 1987295571199664719
+      RevolvingInventory_5: 7157437208724741298
+      RevolvingInventory_6: -5986396796329529681
+      RevolvingInventory_7: 7318415416716223046
+      RevolvingInventory_8: -6081512875627253002
+      RevolvingInventory_9: -5956373747679386645
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

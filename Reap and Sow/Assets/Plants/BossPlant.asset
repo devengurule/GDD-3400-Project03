@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e0bffde2e9ce25469938787fd4aefdf, type: 3}
+  m_Name: BossPlant
+  m_EditorClassIdentifier: 
+  seedlingSprite: {fileID: -7082420485514230939, guid: fd8c0445feabd154c8c51b202b05d8b4, type: 3}
+  youngSprite: {fileID: 7703809176699919468, guid: 6f44a2f48445dfc41aecaa6f2d7225c6, type: 3}
+  adultSprite: {fileID: 196927442530295363, guid: ad103ba3aeb63f541b4b086019af2bb1, type: 3}
+  seedlingTimer: 0
+  youngTimer: 0
+  adultTimer: 0
+  drop: {fileID: 0}

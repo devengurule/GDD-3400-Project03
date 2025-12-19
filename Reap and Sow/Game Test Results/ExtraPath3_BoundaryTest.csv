@@ -1,0 +1,530 @@
+time,event,phase,x,y,angle,dist,attempt,totalAttempts,elapsed,note
+5057.09,SessionStart,BoundaryTest,,,,,,,,"minDir=20 maxAttempts=40 attemptDur=0.20s minDistPerAttempt=0.10 roamMinDist=0.15 roamDur=0.75s leniency=102 % bounds=(-3.63,-2.04)�(3.63,2.04)"
+5057.22,Info,Roam,-0.49,-0.52,,,,,0.13,progress >= 0.15
+5057.32,Info,Roam,-0.37,-0.39,,,,,0.23,progress >= 0.15
+5057.42,Info,Roam,-0.26,-0.28,,,,,0.32,progress >= 0.15
+5057.62,Info,Roam,-0.10,-0.26,,,,,0.52,progress >= 0.15
+5057.84,Info,Roam,0.07,-0.26,,,,,0.75,progress >= 0.15
+5058.05,Info,Roam,0.22,-0.26,,,,,0.96,progress >= 0.15
+5058.28,Info,Roam,0.39,-0.26,,,,,1.19,progress >= 0.15
+5058.50,Info,Roam,0.55,-0.26,,,,,1.41,progress >= 0.15
+5058.72,Info,Roam,0.71,-0.26,,,,,1.63,progress >= 0.15
+5058.94,Info,Roam,0.87,-0.26,,,,,1.85,progress >= 0.15
+5059.16,Info,Roam,1.03,-0.26,,,,,2.07,progress >= 0.15
+5059.38,Info,Roam,1.20,-0.26,,,,,2.29,progress >= 0.15
+5059.60,Info,Roam,1.36,-0.26,,,,,2.51,progress >= 0.15
+5060.38,Info,RandomSweep,,,,,,,,starting
+5060.60,SweepTry,RandomSweep,1.18,-0.26,156.10,0.252,1,40,,
+5060.60,Freed,RandomSweep,1.18,-0.26,156.10,0.252,,,,freed=yes
+5060.72,Info,Roam,1.02,-0.26,,,,,3.62,progress >= 0.15
+5060.84,Info,Roam,0.87,-0.26,,,,,3.74,progress >= 0.15
+5060.96,Info,Roam,0.70,-0.26,,,,,3.87,progress >= 0.15
+5061.08,Info,Roam,0.55,-0.26,,,,,3.99,progress >= 0.15
+5061.23,Info,Roam,0.36,-0.26,,,,,4.13,progress >= 0.15
+5061.35,Info,Roam,0.20,-0.26,,,,,4.25,progress >= 0.15
+5061.47,Info,Roam,0.05,-0.26,,,,,4.37,progress >= 0.15
+5061.59,Info,Roam,-0.12,-0.26,,,,,4.50,progress >= 0.15
+5061.71,Info,Roam,-0.27,-0.26,,,,,4.62,progress >= 0.15
+5061.83,Info,Roam,-0.43,-0.26,,,,,4.74,progress >= 0.15
+5061.95,Info,Roam,-0.59,-0.26,,,,,4.86,progress >= 0.15
+5062.07,Info,Roam,-0.75,-0.26,,,,,4.98,progress >= 0.15
+5062.20,Info,Roam,-0.91,-0.26,,,,,5.10,progress >= 0.15
+5062.32,Info,Roam,-1.07,-0.26,,,,,5.23,progress >= 0.15
+5062.44,Info,Roam,-1.23,-0.26,,,,,5.35,progress >= 0.15
+5062.57,Info,Roam,-1.40,-0.26,,,,,5.47,progress >= 0.15
+5063.34,Info,RandomSweep,,,,,,,,starting
+5063.56,SweepTry,RandomSweep,-1.51,-0.28,64.64,0.023,1,40,,
+5063.77,SweepTry,RandomSweep,-1.53,-0.28,161.72,0.021,2,40,,
+5063.97,SweepTry,RandomSweep,-1.53,-0.28,72.46,0.000,3,40,,
+5064.18,SweepTry,RandomSweep,-1.27,-0.46,325.17,0.312,4,40,,
+5064.18,Freed,RandomSweep,-1.27,-0.46,325.17,0.312,,,,freed=yes
+5064.29,Info,Roam,-1.11,-0.57,,,,,7.20,progress >= 0.15
+5064.39,Info,Roam,-0.97,-0.67,,,,,7.30,progress >= 0.15
+5064.49,Info,Roam,-0.83,-0.77,,,,,7.40,progress >= 0.15
+5064.59,Info,Roam,-0.68,-0.87,,,,,7.50,progress >= 0.15
+5064.69,Info,Roam,-0.54,-0.97,,,,,7.60,progress >= 0.15
+5064.79,Info,Roam,-0.40,-1.07,,,,,7.70,progress >= 0.15
+5064.90,Info,Roam,-0.25,-1.17,,,,,7.80,progress >= 0.15
+5064.99,Info,Roam,-0.11,-1.27,,,,,7.90,progress >= 0.15
+5065.10,Info,Roam,0.03,-1.37,,,,,8.00,progress >= 0.15
+5065.20,Info,Roam,0.18,-1.47,,,,,8.10,progress >= 0.15
+5065.30,Info,Roam,0.32,-1.57,,,,,8.20,progress >= 0.15
+5065.40,Info,Roam,0.46,-1.66,,,,,8.30,progress >= 0.15
+5065.55,Info,Roam,0.61,-1.66,,,,,8.46,progress >= 0.15
+5065.70,Info,Roam,0.77,-1.66,,,,,8.61,progress >= 0.15
+5065.87,Info,Roam,0.94,-1.66,,,,,8.78,progress >= 0.15
+5066.02,Info,Roam,1.10,-1.66,,,,,8.93,progress >= 0.15
+5066.17,Info,Roam,1.25,-1.66,,,,,9.08,progress >= 0.15
+5066.94,Info,RandomSweep,,,,,,,,starting
+5067.18,SweepTry,RandomSweep,1.39,-1.66,246.65,0.010,1,40,,
+5067.39,SweepTry,RandomSweep,1.27,-1.43,115.82,0.259,2,40,,
+5067.39,Freed,RandomSweep,1.27,-1.43,115.82,0.259,,,,freed=yes
+5067.49,Info,Roam,1.20,-1.26,,,,,10.40,progress >= 0.15
+5067.60,Info,Roam,1.12,-1.10,,,,,10.51,progress >= 0.15
+5067.71,Info,Roam,1.03,-0.92,,,,,10.62,progress >= 0.15
+5067.85,Info,Roam,0.91,-0.82,,,,,10.75,progress >= 0.15
+5068.00,Info,Roam,0.79,-0.65,,,,,10.90,progress >= 0.15
+5068.10,Info,Roam,0.71,-0.49,,,,,11.01,progress >= 0.15
+5068.21,Info,Roam,0.63,-0.33,,,,,11.11,progress >= 0.15
+5068.96,Info,RandomSweep,,,,,,,,starting
+5069.18,SweepTry,RandomSweep,0.81,-0.42,332.17,0.339,1,40,,
+5069.18,Freed,RandomSweep,0.81,-0.42,332.17,0.339,,,,freed=yes
+5069.28,Info,Roam,0.95,-0.50,,,,,12.19,progress >= 0.15
+5069.45,Info,Roam,1.11,-0.52,,,,,12.36,progress >= 0.15
+5069.55,Info,Roam,1.26,-0.60,,,,,12.45,progress >= 0.15
+5069.64,Info,Roam,1.41,-0.67,,,,,12.55,progress >= 0.15
+5069.74,Info,Roam,1.56,-0.76,,,,,12.65,progress >= 0.15
+5069.84,Info,Roam,1.71,-0.83,,,,,12.74,progress >= 0.15
+5069.94,Info,Roam,1.86,-0.91,,,,,12.84,progress >= 0.15
+5070.04,Info,Roam,2.01,-1.00,,,,,12.94,progress >= 0.15
+5070.13,Info,Roam,2.16,-1.07,,,,,13.04,progress >= 0.15
+5070.23,Info,Roam,2.31,-1.15,,,,,13.13,progress >= 0.15
+5070.33,Info,Roam,2.46,-1.23,,,,,13.23,progress >= 0.15
+5070.42,Info,Roam,2.61,-1.31,,,,,13.33,progress >= 0.15
+5070.52,Info,Roam,2.76,-1.39,,,,,13.43,progress >= 0.15
+5070.61,Info,Roam,2.90,-1.47,,,,,13.52,progress >= 0.15
+5070.71,Info,Roam,3.06,-1.55,,,,,13.62,progress >= 0.15
+5070.81,Info,Roam,3.20,-1.62,,,,,13.71,progress >= 0.15
+5071.58,Info,RandomSweep,,,,,,,,starting
+5071.80,SweepTry,RandomSweep,2.97,-1.64,177.55,0.342,1,40,,
+5071.80,Freed,RandomSweep,2.97,-1.64,177.55,0.342,,,,freed=yes
+5071.89,Info,Roam,2.82,-1.64,,,,,14.80,progress >= 0.15
+5071.99,Info,Roam,2.65,-1.63,,,,,14.89,progress >= 0.15
+5072.08,Info,Roam,2.48,-1.62,,,,,14.99,progress >= 0.15
+5072.18,Info,Roam,2.31,-1.62,,,,,15.08,progress >= 0.15
+5072.27,Info,Roam,2.15,-1.61,,,,,15.18,progress >= 0.15
+5072.37,Info,Roam,1.98,-1.60,,,,,15.28,progress >= 0.15
+5073.14,Info,RandomSweep,,,,,,,,starting
+5073.37,SweepTry,RandomSweep,1.91,-1.66,283.14,0.063,1,40,,
+5073.58,SweepTry,RandomSweep,1.98,-1.66,303.39,0.069,2,40,,
+5073.78,SweepTry,RandomSweep,1.90,-1.61,156.84,0.098,3,40,,
+5073.98,SweepTry,RandomSweep,1.99,-1.66,305.64,0.107,4,40,,
+5073.98,Freed,RandomSweep,1.99,-1.66,305.64,0.107,,,,freed=yes
+5074.32,Info,Roam,2.14,-1.66,,,,,17.23,progress >= 0.15
+5074.67,Info,Roam,2.30,-1.66,,,,,17.57,progress >= 0.15
+5075.01,Info,Roam,2.45,-1.66,,,,,17.92,progress >= 0.15
+5075.37,Info,Roam,2.61,-1.66,,,,,18.28,progress >= 0.15
+5075.72,Info,Roam,2.77,-1.66,,,,,18.63,progress >= 0.15
+5076.08,Info,Roam,2.93,-1.66,,,,,18.98,progress >= 0.15
+5076.44,Info,Roam,3.09,-1.66,,,,,19.35,progress >= 0.15
+5076.80,Info,Roam,3.25,-1.66,,,,,19.70,progress >= 0.15
+5077.57,Info,RandomSweep,,,,,,,,starting
+5077.80,SweepTry,RandomSweep,3.00,-1.66,192.86,0.308,1,40,,
+5077.80,Freed,RandomSweep,3.00,-1.66,192.86,0.308,,,,freed=yes
+5077.90,Info,Roam,2.84,-1.66,,,,,20.80,progress >= 0.15
+5078.02,Info,Roam,2.66,-1.66,,,,,20.93,progress >= 0.15
+5078.12,Info,Roam,2.50,-1.66,,,,,21.03,progress >= 0.15
+5078.22,Info,Roam,2.35,-1.66,,,,,21.13,progress >= 0.15
+5078.34,Info,Roam,2.16,-1.66,,,,,21.25,progress >= 0.15
+5078.44,Info,Roam,2.01,-1.66,,,,,21.35,progress >= 0.15
+5079.21,Info,RandomSweep,,,,,,,,starting
+5079.42,SweepTry,RandomSweep,1.90,-1.66,245.37,0.000,1,40,,
+5079.64,SweepTry,RandomSweep,1.92,-1.66,294.64,0.018,2,40,,
+5079.86,SweepTry,RandomSweep,2.21,-1.66,345.21,0.297,3,40,,
+5079.86,Freed,RandomSweep,2.21,-1.66,345.21,0.297,,,,freed=yes
+5079.96,Info,Roam,2.36,-1.66,,,,,22.86,progress >= 0.15
+5080.08,Info,Roam,2.54,-1.66,,,,,22.99,progress >= 0.15
+5080.18,Info,Roam,2.69,-1.66,,,,,23.08,progress >= 0.15
+5080.30,Info,Roam,2.87,-1.66,,,,,23.20,progress >= 0.15
+5080.39,Info,Roam,3.02,-1.66,,,,,23.30,progress >= 0.15
+5080.49,Info,Roam,3.17,-1.66,,,,,23.40,progress >= 0.15
+5081.25,Info,RandomSweep,,,,,,,,starting
+5081.46,SweepTry,RandomSweep,3.31,-1.66,271.89,0.000,1,40,,
+5081.67,SweepTry,RandomSweep,3.34,-1.52,46.70,0.140,2,40,,
+5081.67,Freed,RandomSweep,3.34,-1.52,46.70,0.140,,,,freed=yes
+5082.44,Info,RandomSweep,,,,,,,,starting
+5082.67,SweepTry,RandomSweep,3.20,-1.66,231.74,0.196,1,40,,
+5082.67,Freed,RandomSweep,3.20,-1.66,231.74,0.196,,,,freed=yes
+5082.95,Info,Roam,3.05,-1.66,,,,,25.86,progress >= 0.15
+5083.25,Info,Roam,2.89,-1.66,,,,,26.16,progress >= 0.15
+5083.56,Info,Roam,2.73,-1.66,,,,,26.46,progress >= 0.15
+5083.87,Info,Roam,2.57,-1.66,,,,,26.77,progress >= 0.15
+5084.15,Info,Roam,2.42,-1.66,,,,,27.06,progress >= 0.15
+5084.46,Info,Roam,2.25,-1.66,,,,,27.36,progress >= 0.15
+5084.76,Info,Roam,2.09,-1.66,,,,,27.67,progress >= 0.15
+5085.05,Info,Roam,1.94,-1.66,,,,,27.95,progress >= 0.15
+5085.80,Info,RandomSweep,,,,,,,,starting
+5086.00,SweepTry,RandomSweep,1.90,-1.66,205.14,0.000,1,40,,
+5086.21,SweepTry,RandomSweep,1.90,-1.66,283.64,0.000,2,40,,
+5086.44,SweepTry,RandomSweep,1.90,-1.66,290.05,0.000,3,40,,
+5086.65,SweepTry,RandomSweep,2.09,-1.66,326.01,0.185,4,40,,
+5086.65,Freed,RandomSweep,2.09,-1.66,326.01,0.185,,,,freed=yes
+5086.80,Info,Roam,2.25,-1.66,,,,,29.71,progress >= 0.15
+5086.95,Info,Roam,2.41,-1.66,,,,,29.86,progress >= 0.15
+5087.10,Info,Roam,2.56,-1.66,,,,,30.01,progress >= 0.15
+5087.25,Info,Roam,2.72,-1.66,,,,,30.16,progress >= 0.15
+5087.40,Info,Roam,2.88,-1.66,,,,,30.31,progress >= 0.15
+5087.55,Info,Roam,3.04,-1.66,,,,,30.46,progress >= 0.15
+5087.70,Info,Roam,3.20,-1.66,,,,,30.61,progress >= 0.15
+5088.48,Info,RandomSweep,,,,,,,,starting
+5088.68,SweepTry,RandomSweep,3.33,-1.55,30.81,0.107,1,40,,
+5088.68,Freed,RandomSweep,3.33,-1.55,30.81,0.107,,,,freed=yes
+5089.45,Info,RandomSweep,,,,,,,,starting
+5089.66,SweepTry,RandomSweep,3.31,-1.66,271.11,0.139,1,40,,
+5089.66,Freed,RandomSweep,3.31,-1.66,271.11,0.139,,,,freed=yes
+5090.43,Info,RandomSweep,,,,,,,,starting
+5090.64,SweepTry,RandomSweep,3.32,-1.34,87.04,0.312,1,40,,
+5090.64,Freed,RandomSweep,3.32,-1.34,87.04,0.312,,,,freed=yes
+5091.39,Info,RandomSweep,,,,,,,,starting
+5091.59,SweepTry,RandomSweep,3.33,-1.29,334.81,0.024,1,40,,
+5091.79,SweepTry,RandomSweep,3.33,-1.32,333.55,0.029,2,40,,
+5091.99,SweepTry,RandomSweep,3.33,-1.29,28.04,0.032,3,40,,
+5092.20,SweepTry,RandomSweep,3.13,-1.52,229.46,0.308,4,40,,
+5092.20,Freed,RandomSweep,3.13,-1.52,229.46,0.308,,,,freed=yes
+5092.30,Info,Roam,3.02,-1.65,,,,,35.21,progress >= 0.15
+5092.58,Info,Roam,2.86,-1.66,,,,,35.48,progress >= 0.15
+5092.83,Info,Roam,2.71,-1.66,,,,,35.74,progress >= 0.15
+5093.09,Info,Roam,2.55,-1.66,,,,,35.99,progress >= 0.15
+5093.36,Info,Roam,2.39,-1.66,,,,,36.26,progress >= 0.15
+5093.65,Info,Roam,2.23,-1.66,,,,,36.56,progress >= 0.15
+5093.95,Info,Roam,2.07,-1.66,,,,,36.86,progress >= 0.15
+5094.21,Info,Roam,1.92,-1.66,,,,,37.11,progress >= 0.15
+5094.98,Info,RandomSweep,,,,,,,,starting
+5095.18,SweepTry,RandomSweep,1.90,-1.64,155.83,0.022,1,40,,
+5095.40,SweepTry,RandomSweep,2.05,-1.66,313.48,0.148,2,40,,
+5095.40,Freed,RandomSweep,2.05,-1.66,313.48,0.148,,,,freed=yes
+5095.64,Info,Roam,2.21,-1.66,,,,,38.55,progress >= 0.15
+5095.86,Info,Roam,2.36,-1.66,,,,,38.77,progress >= 0.15
+5096.08,Info,Roam,2.52,-1.66,,,,,38.99,progress >= 0.15
+5096.31,Info,Roam,2.67,-1.66,,,,,39.21,progress >= 0.15
+5096.53,Info,Roam,2.82,-1.66,,,,,39.43,progress >= 0.15
+5096.75,Info,Roam,2.98,-1.66,,,,,39.66,progress >= 0.15
+5096.97,Info,Roam,3.13,-1.66,,,,,39.88,progress >= 0.15
+5097.20,Info,Roam,3.29,-1.66,,,,,40.10,progress >= 0.15
+5097.95,Info,RandomSweep,,,,,,,,starting
+5098.15,SweepTry,RandomSweep,3.33,-1.56,34.74,0.102,1,40,,
+5098.15,Freed,RandomSweep,3.33,-1.56,34.74,0.102,,,,freed=yes
+5098.91,Info,RandomSweep,,,,,,,,starting
+5099.14,SweepTry,RandomSweep,3.09,-1.66,213.91,0.289,1,40,,
+5099.14,Freed,RandomSweep,3.09,-1.66,213.91,0.289,,,,freed=yes
+5099.28,Info,Roam,2.93,-1.66,,,,,42.19,progress >= 0.15
+5099.43,Info,Roam,2.78,-1.66,,,,,42.34,progress >= 0.15
+5099.58,Info,Roam,2.62,-1.66,,,,,42.49,progress >= 0.15
+5099.72,Info,Roam,2.47,-1.66,,,,,42.63,progress >= 0.15
+5099.87,Info,Roam,2.32,-1.66,,,,,42.78,progress >= 0.15
+5100.01,Info,Roam,2.16,-1.66,,,,,42.92,progress >= 0.15
+5100.16,Info,Roam,2.00,-1.66,,,,,43.07,progress >= 0.15
+5100.92,Info,RandomSweep,,,,,,,,starting
+5101.12,SweepTry,RandomSweep,2.19,-1.59,13.91,0.293,1,40,,
+5101.12,Freed,RandomSweep,2.19,-1.59,13.91,0.293,,,,freed=yes
+5101.22,Info,Roam,2.35,-1.54,,,,,44.13,progress >= 0.15
+5101.32,Info,Roam,2.52,-1.50,,,,,44.22,progress >= 0.15
+5101.42,Info,Roam,2.68,-1.46,,,,,44.32,progress >= 0.15
+5101.52,Info,Roam,2.86,-1.42,,,,,44.43,progress >= 0.15
+5101.62,Info,Roam,3.03,-1.38,,,,,44.53,progress >= 0.15
+5101.72,Info,Roam,3.18,-1.34,,,,,44.62,progress >= 0.15
+5101.81,Info,Roam,3.33,-1.30,,,,,44.72,progress >= 0.15
+5102.58,Info,RandomSweep,,,,,,,,starting
+5102.79,SweepTry,RandomSweep,3.30,-1.27,124.91,0.045,1,40,,
+5103.01,SweepTry,RandomSweep,3.28,-1.27,117.71,0.026,2,40,,
+5103.23,SweepTry,RandomSweep,3.33,-1.39,321.81,0.132,3,40,,
+5103.23,Freed,RandomSweep,3.33,-1.39,321.81,0.132,,,,freed=yes
+5104.00,Info,RandomSweep,,,,,,,,starting
+5104.20,SweepTry,RandomSweep,3.33,-1.35,69.22,0.172,1,40,,
+5104.20,Freed,RandomSweep,3.33,-1.35,69.22,0.172,,,,freed=yes
+5104.97,Info,RandomSweep,,,,,,,,starting
+5105.17,SweepTry,RandomSweep,3.10,-1.18,150.45,0.250,1,40,,
+5105.17,Freed,RandomSweep,3.10,-1.18,150.45,0.250,,,,freed=yes
+5105.27,Info,Roam,2.95,-1.09,,,,,48.18,progress >= 0.15
+5105.37,Info,Roam,2.79,-1.01,,,,,48.28,progress >= 0.15
+5105.48,Info,Roam,2.63,-0.91,,,,,48.39,progress >= 0.15
+5105.59,Info,Roam,2.47,-0.82,,,,,48.50,progress >= 0.15
+5105.69,Info,Roam,2.32,-0.74,,,,,48.60,progress >= 0.15
+5105.80,Info,Roam,2.16,-0.65,,,,,48.70,progress >= 0.15
+5105.89,Info,Roam,2.01,-0.56,,,,,48.80,progress >= 0.15
+5105.99,Info,Roam,1.87,-0.48,,,,,48.90,progress >= 0.15
+5106.09,Info,Roam,1.72,-0.40,,,,,48.99,progress >= 0.15
+5106.18,Info,Roam,1.58,-0.32,,,,,49.09,progress >= 0.15
+5106.30,Info,Roam,1.43,-0.27,,,,,49.21,progress >= 0.15
+5106.45,Info,Roam,1.27,-0.26,,,,,49.36,progress >= 0.15
+5106.60,Info,Roam,1.10,-0.26,,,,,49.50,progress >= 0.15
+5106.74,Info,Roam,0.92,-0.26,,,,,49.65,progress >= 0.15
+5106.89,Info,Roam,0.75,-0.26,,,,,49.79,progress >= 0.15
+5107.03,Info,Roam,0.59,-0.26,,,,,49.93,progress >= 0.15
+5107.17,Info,Roam,0.42,-0.26,,,,,50.08,progress >= 0.15
+5107.32,Info,Roam,0.25,-0.26,,,,,50.23,progress >= 0.15
+5107.46,Info,Roam,0.08,-0.26,,,,,50.37,progress >= 0.15
+5107.61,Info,Roam,-0.09,-0.26,,,,,50.52,progress >= 0.15
+5107.75,Info,Roam,-0.26,-0.26,,,,,50.66,progress >= 0.15
+5107.90,Info,Roam,-0.43,-0.26,,,,,50.81,progress >= 0.15
+5108.04,Info,Roam,-0.60,-0.26,,,,,50.95,progress >= 0.15
+5108.19,Info,Roam,-0.77,-0.26,,,,,51.09,progress >= 0.15
+5108.34,Info,Roam,-0.95,-0.26,,,,,51.24,progress >= 0.15
+5108.48,Info,Roam,-1.12,-0.26,,,,,51.39,progress >= 0.15
+5108.63,Info,Roam,-1.29,-0.26,,,,,51.54,progress >= 0.15
+5108.77,Info,Roam,-1.44,-0.27,,,,,51.68,progress >= 0.15
+5109.54,Info,RandomSweep,,,,,,,,starting
+5109.77,SweepTry,RandomSweep,-1.33,-0.55,306.73,0.342,1,40,,
+5109.77,Freed,RandomSweep,-1.33,-0.55,306.73,0.342,,,,freed=yes
+5109.86,Info,Roam,-1.23,-0.69,,,,,52.77,progress >= 0.15
+5109.96,Info,Roam,-1.13,-0.82,,,,,52.87,progress >= 0.15
+5110.08,Info,Roam,-1.01,-0.98,,,,,52.98,progress >= 0.15
+5110.17,Info,Roam,-0.91,-1.12,,,,,53.08,progress >= 0.15
+5110.27,Info,Roam,-0.80,-1.25,,,,,53.18,progress >= 0.15
+5110.36,Info,Roam,-0.70,-1.39,,,,,53.27,progress >= 0.15
+5110.46,Info,Roam,-0.60,-1.52,,,,,53.37,progress >= 0.15
+5110.56,Info,Roam,-0.50,-1.66,,,,,53.47,progress >= 0.15
+5110.66,Info,Roam,-0.40,-1.79,,,,,53.56,progress >= 0.15
+5111.42,Info,RandomSweep,,,,,,,,starting
+5111.64,SweepTry,RandomSweep,-0.23,-1.82,342.55,0.121,1,40,,
+5111.64,Freed,RandomSweep,-0.23,-1.82,342.55,0.121,,,,freed=yes
+5111.88,Info,Roam,-0.10,-1.75,,,,,54.78,progress >= 0.15
+5112.64,Info,RandomSweep,,,,,,,,starting
+5112.86,SweepTry,RandomSweep,-0.40,-1.59,152.78,0.341,1,40,,
+5112.86,Freed,RandomSweep,-0.40,-1.59,152.78,0.341,,,,freed=yes
+5112.96,Info,Roam,-0.55,-1.51,,,,,55.87,progress >= 0.15
+5113.06,Info,Roam,-0.71,-1.43,,,,,55.97,progress >= 0.15
+5113.15,Info,Roam,-0.84,-1.36,,,,,56.06,progress >= 0.15
+5113.25,Info,Roam,-0.99,-1.29,,,,,56.16,progress >= 0.15
+5113.35,Info,Roam,-1.15,-1.21,,,,,56.25,progress >= 0.15
+5113.45,Info,Roam,-1.30,-1.13,,,,,56.35,progress >= 0.15
+5113.54,Info,Roam,-1.45,-1.05,,,,,56.45,progress >= 0.15
+5113.64,Info,Roam,-1.60,-0.97,,,,,56.55,progress >= 0.15
+5113.74,Info,Roam,-1.75,-0.90,,,,,56.64,progress >= 0.15
+5113.83,Info,Roam,-1.90,-0.82,,,,,56.74,progress >= 0.15
+5113.93,Info,Roam,-2.05,-0.74,,,,,56.84,progress >= 0.15
+5114.68,Info,RandomSweep,,,,,,,,starting
+5114.91,SweepTry,RandomSweep,-2.06,-0.96,283.60,0.342,1,40,,
+5114.91,Freed,RandomSweep,-2.06,-0.96,283.60,0.342,,,,freed=yes
+5115.05,Info,Roam,-1.99,-1.10,,,,,57.96,progress >= 0.15
+5115.15,Info,Roam,-1.95,-1.27,,,,,58.06,progress >= 0.15
+5115.25,Info,Roam,-1.91,-1.44,,,,,58.16,progress >= 0.15
+5115.35,Info,Roam,-1.87,-1.61,,,,,58.26,progress >= 0.15
+5115.44,Info,Roam,-1.83,-1.76,,,,,58.35,progress >= 0.15
+5116.21,Info,RandomSweep,,,,,,,,starting
+5116.43,SweepTry,RandomSweep,-1.70,-1.58,74.37,0.341,1,40,,
+5116.43,Freed,RandomSweep,-1.70,-1.58,74.37,0.341,,,,freed=yes
+5116.53,Info,Roam,-1.66,-1.41,,,,,59.44,progress >= 0.15
+5116.63,Info,Roam,-1.61,-1.24,,,,,59.54,progress >= 0.15
+5116.73,Info,Roam,-1.56,-1.07,,,,,59.64,progress >= 0.15
+5116.83,Info,Roam,-1.52,-0.91,,,,,59.74,progress >= 0.15
+5116.94,Info,Roam,-1.46,-0.72,,,,,59.85,progress >= 0.15
+5117.04,Info,Roam,-1.42,-0.56,,,,,59.95,progress >= 0.15
+5117.14,Info,Roam,-1.37,-0.39,,,,,60.05,progress >= 0.15
+5117.89,Info,RandomSweep,,,,,,,,starting
+5118.10,SweepTry,RandomSweep,-1.08,-0.44,324.07,0.312,1,40,,
+5118.10,Freed,RandomSweep,-1.08,-0.44,324.07,0.312,,,,freed=yes
+5118.19,Info,Roam,-0.95,-0.54,,,,,61.10,progress >= 0.15
+5118.29,Info,Roam,-0.80,-0.64,,,,,61.20,progress >= 0.15
+5118.39,Info,Roam,-0.66,-0.74,,,,,61.30,progress >= 0.15
+5118.49,Info,Roam,-0.53,-0.83,,,,,61.40,progress >= 0.15
+5118.59,Info,Roam,-0.40,-0.93,,,,,61.49,progress >= 0.15
+5118.69,Info,Roam,-0.26,-1.04,,,,,61.59,progress >= 0.15
+5118.78,Info,Roam,-0.12,-1.13,,,,,61.69,progress >= 0.15
+5118.88,Info,Roam,0.01,-1.23,,,,,61.79,progress >= 0.15
+5118.98,Info,Roam,0.16,-1.33,,,,,61.88,progress >= 0.15
+5119.07,Info,Roam,0.29,-1.43,,,,,61.98,progress >= 0.15
+5119.17,Info,Roam,0.43,-1.53,,,,,62.08,progress >= 0.15
+5119.26,Info,Roam,0.56,-1.63,,,,,62.17,progress >= 0.15
+5119.44,Info,Roam,0.73,-1.66,,,,,62.34,progress >= 0.15
+5119.60,Info,Roam,0.90,-1.66,,,,,62.51,progress >= 0.15
+5119.78,Info,Roam,1.07,-1.66,,,,,62.68,progress >= 0.15
+5119.95,Info,Roam,1.24,-1.66,,,,,62.85,progress >= 0.15
+5120.11,Info,Roam,1.40,-1.66,,,,,63.02,progress >= 0.15
+5120.87,Info,RandomSweep,,,,,,,,starting
+5121.10,SweepTry,RandomSweep,1.26,-1.66,225.58,0.144,1,40,,
+5121.10,Freed,RandomSweep,1.26,-1.66,225.58,0.144,,,,freed=yes
+5121.31,Info,Roam,1.10,-1.66,,,,,64.22,progress >= 0.15
+5121.53,Info,Roam,0.95,-1.66,,,,,64.43,progress >= 0.15
+5121.75,Info,Roam,0.79,-1.66,,,,,64.65,progress >= 0.15
+5121.96,Info,Roam,0.63,-1.66,,,,,64.87,progress >= 0.15
+5122.19,Info,Roam,0.47,-1.66,,,,,65.09,progress >= 0.15
+5122.41,Info,Roam,0.31,-1.66,,,,,65.31,progress >= 0.15
+5122.62,Info,Roam,0.16,-1.66,,,,,65.53,progress >= 0.15
+5122.87,Info,Roam,-0.01,-1.65,,,,,65.77,progress >= 0.15
+5123.02,Info,Roam,-0.17,-1.77,,,,,65.93,progress >= 0.15
+5123.13,Info,Roam,-0.30,-1.86,,,,,66.04,progress >= 0.15
+5123.30,Info,Roam,-0.44,-1.91,,,,,66.21,progress >= 0.15
+5123.53,Info,Roam,-0.61,-1.91,,,,,66.44,progress >= 0.15
+5123.75,Info,Roam,-0.77,-1.91,,,,,66.66,progress >= 0.15
+5123.97,Info,Roam,-0.92,-1.91,,,,,66.87,progress >= 0.15
+5124.19,Info,Roam,-1.08,-1.91,,,,,67.09,progress >= 0.15
+5124.41,Info,Roam,-1.24,-1.91,,,,,67.32,progress >= 0.15
+5124.63,Info,Roam,-1.40,-1.91,,,,,67.53,progress >= 0.15
+5124.85,Info,Roam,-1.56,-1.91,,,,,67.76,progress >= 0.15
+5125.07,Info,Roam,-1.71,-1.91,,,,,67.98,progress >= 0.15
+5125.29,Info,Roam,-1.87,-1.91,,,,,68.20,progress >= 0.15
+5126.07,Info,RandomSweep,,,,,,,,starting
+5126.28,SweepTry,RandomSweep,-1.94,-1.62,77.69,0.299,1,40,,
+5126.28,Freed,RandomSweep,-1.94,-1.62,77.69,0.299,,,,freed=yes
+5126.37,Info,Roam,-1.90,-1.45,,,,,69.28,progress >= 0.15
+5126.47,Info,Roam,-1.86,-1.29,,,,,69.38,progress >= 0.15
+5126.57,Info,Roam,-1.83,-1.12,,,,,69.48,progress >= 0.15
+5126.72,Info,Roam,-1.78,-0.89,,,,,69.62,progress >= 0.15
+5126.84,Info,Roam,-1.74,-0.70,,,,,69.74,progress >= 0.15
+5127.62,Info,RandomSweep,,,,,,,,starting
+5127.84,SweepTry,RandomSweep,-1.64,-0.58,55.70,0.074,1,40,,
+5128.06,SweepTry,RandomSweep,-1.82,-0.58,148.03,0.186,2,40,,
+5128.06,Freed,RandomSweep,-1.82,-0.58,148.03,0.186,,,,freed=yes
+5128.21,Info,Roam,-1.99,-0.56,,,,,71.11,progress >= 0.15
+5128.96,Info,RandomSweep,,,,,,,,starting
+5129.18,SweepTry,RandomSweep,-2.14,-0.62,204.43,0.042,1,40,,
+5129.38,SweepTry,RandomSweep,-1.90,-0.80,323.95,0.307,2,40,,
+5129.38,Freed,RandomSweep,-1.90,-0.80,323.95,0.307,,,,freed=yes
+5129.48,Info,Roam,-1.75,-0.90,,,,,72.39,progress >= 0.15
+5129.58,Info,Roam,-1.61,-1.00,,,,,72.49,progress >= 0.15
+5129.68,Info,Roam,-1.48,-1.10,,,,,72.58,progress >= 0.15
+5129.77,Info,Roam,-1.34,-1.20,,,,,72.68,progress >= 0.15
+5129.89,Info,Roam,-1.18,-1.32,,,,,72.80,progress >= 0.15
+5129.99,Info,Roam,-1.04,-1.42,,,,,72.90,progress >= 0.15
+5130.09,Info,Roam,-0.90,-1.52,,,,,72.99,progress >= 0.15
+5130.19,Info,Roam,-0.77,-1.62,,,,,73.09,progress >= 0.15
+5130.28,Info,Roam,-0.63,-1.72,,,,,73.19,progress >= 0.15
+5130.38,Info,Roam,-0.50,-1.82,,,,,73.28,progress >= 0.15
+5130.48,Info,Roam,-0.37,-1.91,,,,,73.38,progress >= 0.15
+5131.25,Info,RandomSweep,,,,,,,,starting
+5131.46,SweepTry,RandomSweep,-0.24,-1.61,66.45,0.329,1,40,,
+5131.46,Freed,RandomSweep,-0.24,-1.61,66.45,0.329,,,,freed=yes
+5131.56,Info,Roam,-0.17,-1.45,,,,,74.47,progress >= 0.15
+5131.66,Info,Roam,-0.10,-1.30,,,,,74.56,progress >= 0.15
+5131.76,Info,Roam,-0.03,-1.14,,,,,74.66,progress >= 0.15
+5131.85,Info,Roam,0.03,-0.99,,,,,74.76,progress >= 0.15
+5131.95,Info,Roam,0.10,-0.83,,,,,74.85,progress >= 0.15
+5132.05,Info,Roam,0.17,-0.68,,,,,74.95,progress >= 0.15
+5132.14,Info,Roam,0.24,-0.52,,,,,75.05,progress >= 0.15
+5132.24,Info,Roam,0.30,-0.37,,,,,75.15,progress >= 0.15
+5133.00,Info,RandomSweep,,,,,,,,starting
+5133.22,SweepTry,RandomSweep,0.47,-0.26,56.33,0.077,1,40,,
+5133.44,SweepTry,RandomSweep,0.49,-0.60,271.61,0.342,2,40,,
+5133.44,Freed,RandomSweep,0.49,-0.60,271.61,0.342,,,,freed=yes
+5133.54,Info,Roam,0.49,-0.77,,,,,76.45,progress >= 0.15
+5133.64,Info,Roam,0.50,-0.93,,,,,76.55,progress >= 0.15
+5133.74,Info,Roam,0.50,-1.11,,,,,76.64,progress >= 0.15
+5133.84,Info,Roam,0.51,-1.28,,,,,76.74,progress >= 0.15
+5133.93,Info,Roam,0.51,-1.45,,,,,76.84,progress >= 0.15
+5134.03,Info,Roam,0.52,-1.62,,,,,76.94,progress >= 0.15
+5134.80,Info,RandomSweep,,,,,,,,starting
+5135.02,SweepTry,RandomSweep,0.50,-1.32,92.33,0.342,1,40,,
+5135.02,Freed,RandomSweep,0.50,-1.32,92.33,0.342,,,,freed=yes
+5135.12,Info,Roam,0.50,-1.15,,,,,78.03,progress >= 0.15
+5135.24,Info,Roam,0.49,-0.95,,,,,78.14,progress >= 0.15
+5135.33,Info,Roam,0.48,-0.78,,,,,78.24,progress >= 0.15
+5135.43,Info,Roam,0.48,-0.60,,,,,78.34,progress >= 0.15
+5135.53,Info,Roam,0.47,-0.44,,,,,78.44,progress >= 0.15
+5135.63,Info,Roam,0.46,-0.27,,,,,78.53,progress >= 0.15
+5136.40,Info,RandomSweep,,,,,,,,starting
+5136.62,SweepTry,RandomSweep,0.24,-0.50,228.14,0.335,1,40,,
+5136.62,Freed,RandomSweep,0.24,-0.50,228.14,0.335,,,,freed=yes
+5136.72,Info,Roam,0.11,-0.64,,,,,79.63,progress >= 0.15
+5136.83,Info,Roam,-0.01,-0.78,,,,,79.74,progress >= 0.15
+5136.93,Info,Roam,-0.12,-0.91,,,,,79.84,progress >= 0.15
+5137.03,Info,Roam,-0.23,-1.03,,,,,79.93,progress >= 0.15
+5137.12,Info,Roam,-0.35,-1.16,,,,,80.03,progress >= 0.15
+5137.25,Info,Roam,-0.48,-1.30,,,,,80.15,progress >= 0.15
+5137.37,Info,Roam,-0.61,-1.45,,,,,80.27,progress >= 0.15
+5137.46,Info,Roam,-0.71,-1.56,,,,,80.36,progress >= 0.15
+5137.55,Info,Roam,-0.82,-1.68,,,,,80.46,progress >= 0.15
+5137.67,Info,Roam,-0.95,-1.83,,,,,80.58,progress >= 0.15
+5137.88,Info,Roam,-1.10,-1.91,,,,,80.78,progress >= 0.15
+5138.15,Info,Roam,-1.26,-1.91,,,,,81.06,progress >= 0.15
+5138.40,Info,Roam,-1.42,-1.91,,,,,81.30,progress >= 0.15
+5138.64,Info,Roam,-1.58,-1.91,,,,,81.55,progress >= 0.15
+5138.89,Info,Roam,-1.74,-1.91,,,,,81.80,progress >= 0.15
+5139.14,Info,Roam,-1.90,-1.91,,,,,82.05,progress >= 0.15
+5139.91,Info,RandomSweep,,,,,,,,starting
+5140.13,SweepTry,RandomSweep,-2.00,-1.60,100.85,0.310,1,40,,
+5140.13,Freed,RandomSweep,-2.00,-1.60,100.85,0.310,,,,freed=yes
+5140.23,Info,Roam,-2.00,-1.45,,,,,83.13,progress >= 0.15
+5140.32,Info,Roam,-2.00,-1.29,,,,,83.23,progress >= 0.15
+5140.42,Info,Roam,-2.00,-1.14,,,,,83.33,progress >= 0.15
+5140.53,Info,Roam,-2.02,-0.98,,,,,83.44,progress >= 0.15
+5140.64,Info,Roam,-2.05,-0.80,,,,,83.55,progress >= 0.15
+5140.74,Info,Roam,-2.08,-0.63,,,,,83.64,progress >= 0.15
+5141.51,Info,RandomSweep,,,,,,,,starting
+5141.73,SweepTry,RandomSweep,-1.86,-0.83,312.93,0.342,1,40,,
+5141.73,Freed,RandomSweep,-1.86,-0.83,312.93,0.342,,,,freed=yes
+5141.83,Info,Roam,-1.74,-0.95,,,,,84.73,progress >= 0.15
+5141.93,Info,Roam,-1.63,-1.08,,,,,84.83,progress >= 0.15
+5142.02,Info,Roam,-1.52,-1.20,,,,,84.93,progress >= 0.15
+5142.12,Info,Roam,-1.41,-1.31,,,,,85.02,progress >= 0.15
+5142.21,Info,Roam,-1.30,-1.43,,,,,85.12,progress >= 0.15
+5142.31,Info,Roam,-1.18,-1.56,,,,,85.21,progress >= 0.15
+5142.40,Info,Roam,-1.06,-1.68,,,,,85.31,progress >= 0.15
+5142.50,Info,Roam,-0.95,-1.81,,,,,85.41,progress >= 0.15
+5142.65,Info,Roam,-0.82,-1.91,,,,,85.55,progress >= 0.15
+5142.89,Info,Roam,-0.66,-1.91,,,,,85.79,progress >= 0.15
+5143.13,Info,Roam,-0.50,-1.91,,,,,86.04,progress >= 0.15
+5143.90,Info,RandomSweep,,,,,,,,starting
+5144.12,SweepTry,RandomSweep,-0.59,-1.65,130.90,0.341,1,40,,
+5144.12,Freed,RandomSweep,-0.59,-1.65,130.90,0.341,,,,freed=yes
+5144.21,Info,Roam,-0.70,-1.52,,,,,87.12,progress >= 0.15
+5144.31,Info,Roam,-0.81,-1.39,,,,,87.22,progress >= 0.15
+5144.40,Info,Roam,-0.91,-1.27,,,,,87.31,progress >= 0.15
+5144.50,Info,Roam,-1.02,-1.14,,,,,87.41,progress >= 0.15
+5144.60,Info,Roam,-1.14,-1.01,,,,,87.51,progress >= 0.15
+5144.70,Info,Roam,-1.24,-0.89,,,,,87.60,progress >= 0.15
+5144.79,Info,Roam,-1.36,-0.76,,,,,87.70,progress >= 0.15
+5144.89,Info,Roam,-1.47,-0.63,,,,,87.80,progress >= 0.15
+5145.66,Info,RandomSweep,,,,,,,,starting
+5145.86,SweepTry,RandomSweep,-1.52,-0.28,86.28,0.258,1,40,,
+5145.86,Freed,RandomSweep,-1.52,-0.28,86.28,0.258,,,,freed=yes
+5146.62,Info,RandomSweep,,,,,,,,starting
+5146.84,SweepTry,RandomSweep,-1.53,-0.28,163.53,0.007,1,40,,
+5147.06,SweepTry,RandomSweep,-1.54,-0.41,223.82,0.136,2,40,,
+5147.06,Freed,RandomSweep,-1.54,-0.41,223.82,0.136,,,,freed=yes
+5147.28,Info,Roam,-1.59,-0.58,,,,,90.19,progress >= 0.15
+5147.38,Info,Roam,-1.71,-0.69,,,,,90.29,progress >= 0.15
+5147.47,Info,Roam,-1.82,-0.80,,,,,90.38,progress >= 0.15
+5147.57,Info,Roam,-1.94,-0.92,,,,,90.48,progress >= 0.15
+5148.33,Info,RandomSweep,,,,,,,,starting
+5148.53,SweepTry,RandomSweep,-2.08,-1.00,201.38,0.038,1,40,,
+5148.75,SweepTry,RandomSweep,-2.08,-1.00,245.61,0.001,2,40,,
+5148.97,SweepTry,RandomSweep,-2.08,-1.00,243.79,0.000,3,40,,
+5149.19,SweepTry,RandomSweep,-1.76,-0.90,16.92,0.341,4,40,,
+5149.19,Freed,RandomSweep,-1.76,-0.90,16.92,0.341,,,,freed=yes
+5149.29,Info,Roam,-1.60,-0.85,,,,,92.19,progress >= 0.15
+5149.38,Info,Roam,-1.44,-0.80,,,,,92.29,progress >= 0.15
+5149.48,Info,Roam,-1.27,-0.75,,,,,92.39,progress >= 0.15
+5149.58,Info,Roam,-1.11,-0.70,,,,,92.49,progress >= 0.15
+5149.68,Info,Roam,-0.95,-0.65,,,,,92.58,progress >= 0.15
+5149.77,Info,Roam,-0.80,-0.61,,,,,92.68,progress >= 0.15
+5149.87,Info,Roam,-0.64,-0.56,,,,,92.77,progress >= 0.15
+5149.96,Info,Roam,-0.48,-0.51,,,,,92.87,progress >= 0.15
+5150.06,Info,Roam,-0.32,-0.46,,,,,92.96,progress >= 0.15
+5150.15,Info,Roam,-0.16,-0.41,,,,,93.06,progress >= 0.15
+5150.25,Info,Roam,0.00,-0.36,,,,,93.15,progress >= 0.15
+5150.34,Info,Roam,0.16,-0.32,,,,,93.25,progress >= 0.15
+5150.44,Info,Roam,0.32,-0.27,,,,,93.35,progress >= 0.15
+5150.56,Info,Roam,0.49,-0.26,,,,,93.47,progress >= 0.15
+5150.68,Info,Roam,0.67,-0.26,,,,,93.59,progress >= 0.15
+5150.80,Info,Roam,0.84,-0.26,,,,,93.71,progress >= 0.15
+5150.92,Info,Roam,1.02,-0.26,,,,,93.83,progress >= 0.15
+5151.05,Info,Roam,1.20,-0.26,,,,,93.95,progress >= 0.15
+5151.17,Info,Roam,1.38,-0.26,,,,,94.07,progress >= 0.15
+5151.36,Info,Roam,1.56,-0.28,,,,,94.27,progress >= 0.15
+5151.48,Info,Roam,1.74,-0.27,,,,,94.39,progress >= 0.15
+5151.58,Info,Roam,1.90,-0.22,,,,,94.48,progress >= 0.15
+5151.67,Info,Roam,2.06,-0.17,,,,,94.58,progress >= 0.15
+5151.78,Info,Roam,2.23,-0.12,,,,,94.69,progress >= 0.15
+5151.87,Info,Roam,2.39,-0.07,,,,,94.78,progress >= 0.15
+5151.98,Info,Roam,2.57,-0.02,,,,,94.89,progress >= 0.15
+5152.08,Info,Roam,2.74,0.04,,,,,94.99,progress >= 0.15
+5152.18,Info,Roam,2.91,0.09,,,,,95.09,progress >= 0.15
+5152.28,Info,Roam,3.07,0.14,,,,,95.19,progress >= 0.15
+5153.04,Info,RandomSweep,,,,,,,,starting
+5153.26,SweepTry,RandomSweep,3.20,0.33,46.03,0.151,1,40,,
+5153.26,Freed,RandomSweep,3.20,0.33,46.03,0.151,,,,freed=yes
+5153.45,Info,Roam,3.20,0.48,,,,,96.36,progress >= 0.15
+5153.67,Info,Roam,3.20,0.64,,,,,96.57,progress >= 0.15
+5153.88,Info,Roam,3.20,0.81,,,,,96.79,progress >= 0.15
+5154.08,Info,Roam,3.20,0.96,,,,,96.99,progress >= 0.15
+5154.30,Info,Roam,3.20,1.13,,,,,97.21,progress >= 0.15
+5155.05,Info,RandomSweep,,,,,,,,starting
+5155.26,SweepTry,RandomSweep,3.20,1.22,12.51,0.000,1,40,,
+5155.48,SweepTry,RandomSweep,3.04,0.93,240.35,0.335,2,40,,
+5155.48,Freed,RandomSweep,3.04,0.93,240.35,0.335,,,,freed=yes
+5155.57,Info,Roam,2.95,0.78,,,,,98.48,progress >= 0.15
+5155.67,Info,Roam,2.87,0.64,,,,,98.58,progress >= 0.15
+5155.77,Info,Roam,2.79,0.49,,,,,98.67,progress >= 0.15
+5155.86,Info,Roam,2.71,0.36,,,,,98.77,progress >= 0.15
+5155.96,Info,Roam,2.62,0.21,,,,,98.86,progress >= 0.15
+5156.05,Info,Roam,2.54,0.06,,,,,98.96,progress >= 0.15
+5156.15,Info,Roam,2.46,-0.09,,,,,99.06,progress >= 0.15
+5156.24,Info,Roam,2.37,-0.23,,,,,99.15,progress >= 0.15
+5156.34,Info,Roam,2.29,-0.37,,,,,99.25,progress >= 0.15
+5156.44,Info,Roam,2.21,-0.52,,,,,99.34,progress >= 0.15
+5156.53,Info,Roam,2.13,-0.67,,,,,99.44,progress >= 0.15
+5156.63,Info,Roam,2.04,-0.81,,,,,99.54,progress >= 0.15
+5156.73,Info,Roam,1.96,-0.96,,,,,99.63,progress >= 0.15
+5156.82,Info,Roam,1.88,-1.11,,,,,99.73,progress >= 0.15
+5156.92,Info,Roam,1.80,-1.25,,,,,99.82,progress >= 0.15

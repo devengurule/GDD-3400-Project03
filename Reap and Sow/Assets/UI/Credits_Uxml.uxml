@@ -1,0 +1,16 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/basebuttonmenu.uss?fileID=7433441132597879392&amp;guid=d8582023a539a3e4c9c3aea240ef29ee&amp;type=3#basebuttonmenu" />
+    <engine:VisualElement name="BasicMenu" enabled="true" class="CreditsRoll" style="background-color: rgba(0, 0, 0, 0); height: 1081px; transition-duration: 25s; opacity: 1;">
+        <engine:VisualElement style="flex-grow: 1; background-image: none; width: 2877px; -unity-background-image-tint-color: rgba(0, 0, 0, 0.86); border-top-left-radius: 0; border-top-right-radius: 0; border-bottom-right-radius: 0; border-bottom-left-radius: 0; border-left-width: 100px; translate: -100px 0;">
+            <engine:VisualElement name="Creditsroll" enabled="true">
+                <engine:GroupBox style="width: 1912px; height: 860px;">
+                    <engine:VisualElement name="mainlogo" class="logoAnim" style="width: 541px; height: 377px; max-height: 400px; margin-bottom: 100px; align-self: center; align-content: auto; justify-content: space-between; align-items: auto; transform-origin: flex-start; margin-left: 45px; color: rgb(127, 127, 127); -unity-background-image-tint-color: rgb(255, 200, 0); background-image: url(&quot;project://database/Assets/Sprites/UI%20Elements/gilroy&apos;s%20grove%20logo.png?fileID=2800000&amp;guid=6a0c4571f8e03964387fafa47f0a9182&amp;type=3#gilroy&apos;s grove logo&quot;);" />
+                </engine:GroupBox>
+                <engine:GroupBox style="justify-content: flex-start; align-self: auto; align-content: flex-start; align-items: stretch; flex-direction: column; height: 450px; width: 1912px; border-top-left-radius: 0; border-top-right-radius: 0; border-bottom-right-radius: 0; border-bottom-left-radius: 0; -unity-text-align: upper-left; white-space: normal;">
+                    <engine:Label text="Production Lead&#10;Christian Ekstrand&#10;&#10;Art Team&#10;Team Lead: Kristina (Bo) Aguilar&#10;Deven Gurule&#10;Croix Peed&#10;Collin Brooks&#10;&#10;&#10;Design Team&#10;Team Lead: Nix Richardson&#10;Ivan Benefield&#10;Davis Moline&#10;Brian Rooney&#10;&#10;Programming Team&#10; Team Lead: Taylor Fox&#10;Harrison Cajigal&#10;Jack Shallenberg&#10;Jakk Steinbrink&#10;Craig Poltenovage&#10;Jessi Rhody&#10;Cameron Johnson&#10;&#10;Sound Team&#10;Team Lead: Tyler lee&#10;John T&#10;Zachary R&#10;" style="font-size: 55px; -unity-font-definition: url(&quot;project://database/Assets/UI/Fonts/BoldPixels1.4.ttf?fileID=12800000&amp;guid=dee0f08e868fbb64db250156907793be&amp;type=3#BoldPixels1.4&quot;); color: rgb(63, 32, 6); -unity-text-outline-width: 2px; -unity-text-outline-color: rgb(255, 200, 0); -unity-text-align: upper-center;" />
+                </engine:GroupBox>
+            </engine:VisualElement>
+        </engine:VisualElement>
+    </engine:VisualElement>
+    <engine:Button text="Skip" name="ExitCredits" class="BaseButton" style="align-self: flex-end; align-content: flex-start; align-items: stretch; justify-content: flex-start;" />
+</engine:UXML>

@@ -1,0 +1,17 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/basebuttonmenu.uss?fileID=7433441132597879392&amp;guid=d8582023a539a3e4c9c3aea240ef29ee&amp;type=3#basebuttonmenu" />
+    <engine:VisualElement name="BasicMenu" class="basicmainmenu" style="background-color: rgba(0, 0, 0, 0);">
+        <engine:VisualElement style="flex-grow: 1; background-image: url(&quot;project://database/Assets/Sprites/UI%20Elements/FadeSquare.png?fileID=2800000&amp;guid=23d191765262a75418e57a7717feaf4d&amp;type=3#FadeSquare&quot;); width: 972px; -unity-background-image-tint-color: rgba(0, 0, 0, 0.86); border-top-left-radius: 0; border-top-right-radius: 0; border-bottom-right-radius: 0; border-bottom-left-radius: 0; border-left-width: 100px; translate: -100px 0;">
+            <engine:GroupBox>
+                <engine:VisualElement name="mainlogo" class="logoAnim" style="width: 541px; height: 377px; max-height: 400px; margin-bottom: 100px; align-self: flex-start; align-content: auto; justify-content: flex-start; align-items: auto; transform-origin: center; margin-left: 45px; color: rgb(127, 127, 127); -unity-background-image-tint-color: rgb(255, 200, 0); background-image: url(&quot;project://database/Assets/Sprites/UI%20Elements/gilroy&apos;s%20grove%20logo.png?fileID=2800000&amp;guid=6a0c4571f8e03964387fafa47f0a9182&amp;type=3#gilroy&apos;s grove logo&quot;);" />
+            </engine:GroupBox>
+            <engine:GroupBox style="justify-content: flex-start; align-self: auto; align-content: auto; align-items: auto; flex-direction: column-reverse; height: 563px; width: 634px; border-top-left-radius: 0; border-top-right-radius: 0; border-bottom-right-radius: 0; border-bottom-left-radius: 0; -unity-text-align: upper-left;">
+                <engine:Button text="EXIT" name="Exit" class="BaseButton" style="-unity-background-image-tint-color: rgb(255, 243, 140); border-right-width: 120px; border-left-width: 120px;" />
+                <engine:Button text="CREDITS" name="Credits" class="BaseButton" style="-unity-background-image-tint-color: rgb(255, 243, 140);" />
+                <engine:Button text="SETTINGS" name="Settings" class="BaseButton" style="-unity-background-image-tint-color: rgb(255, 243, 140);" />
+                <engine:Button text="NEW GAME" name="NewGame" class="BaseButton" style="-unity-background-image-tint-color: rgb(255, 243, 140); -unity-font-definition: url(&quot;project://database/Assets/UI/Fonts/BoldPixels1.4.ttf?fileID=12800000&amp;guid=dee0f08e868fbb64db250156907793be&amp;type=3#BoldPixels1.4&quot;);" />
+                <engine:Button text="CONTINUE" name="Continue" focusable="true" enabled="true" class="BaseButton" style="-unity-background-image-tint-color: rgb(255, 243, 140); opacity: 1;" />
+            </engine:GroupBox>
+        </engine:VisualElement>
+    </engine:VisualElement>
+</engine:UXML>

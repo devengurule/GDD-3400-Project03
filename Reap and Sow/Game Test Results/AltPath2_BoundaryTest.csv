@@ -1,0 +1,60 @@
+time,event,phase,x,y,angle,dist,attempt,totalAttempts,elapsed,note
+4521.28,SessionStart,BoundaryTest,,,,,,,,"minDir=20 maxAttempts=40 attemptDur=0.20s minDistPerAttempt=0.10 roamMinDist=0.15 roamDur=0.75s leniency=102 % bounds=(-3.63,-2.04)�(3.63,2.04)"
+4521.41,Info,Roam,2.25,-1.79,,,,,0.13,progress >= 0.15
+4521.51,Info,Roam,2.37,-1.66,,,,,0.23,progress >= 0.15
+4521.61,Info,Roam,2.49,-1.54,,,,,0.33,progress >= 0.15
+4521.71,Info,Roam,2.61,-1.42,,,,,0.43,progress >= 0.15
+4521.81,Info,Roam,2.74,-1.30,,,,,0.53,progress >= 0.15
+4521.91,Info,Roam,2.86,-1.17,,,,,0.63,progress >= 0.15
+4522.00,Info,Roam,2.98,-1.06,,,,,0.72,progress >= 0.15
+4522.10,Info,Roam,3.10,-0.93,,,,,0.82,progress >= 0.15
+4522.19,Info,Roam,3.21,-0.82,,,,,0.91,progress >= 0.15
+4522.34,Info,Roam,3.29,-0.68,,,,,1.06,progress >= 0.15
+4523.09,Info,RandomSweep,,,,,,,,starting
+4523.31,SweepTry,RandomSweep,3.34,-0.61,346.10,0.000,1,40,,
+4523.53,SweepTry,RandomSweep,3.20,-0.32,113.05,0.317,2,40,,
+4523.53,Freed,RandomSweep,3.20,-0.32,113.05,0.317,,,,freed=yes
+4523.62,Info,Roam,3.14,-0.17,,,,,2.35,progress >= 0.15
+4523.72,Info,Roam,3.08,-0.03,,,,,2.44,progress >= 0.15
+4523.81,Info,Roam,3.01,0.13,,,,,2.53,progress >= 0.15
+4523.91,Info,Roam,2.95,0.28,,,,,2.63,progress >= 0.15
+4524.00,Info,Roam,2.88,0.43,,,,,2.72,progress >= 0.15
+4524.10,Info,Roam,2.82,0.59,,,,,2.82,progress >= 0.15
+4524.19,Info,Roam,2.75,0.74,,,,,2.91,progress >= 0.15
+4524.28,Info,Roam,2.69,0.89,,,,,3.01,progress >= 0.15
+4524.38,Info,Roam,2.62,1.05,,,,,3.10,progress >= 0.15
+4524.48,Info,Roam,2.55,1.20,,,,,3.20,progress >= 0.15
+4524.57,Info,Roam,2.49,1.35,,,,,3.29,progress >= 0.15
+4524.67,Info,Roam,2.43,1.51,,,,,3.39,progress >= 0.15
+4524.79,Info,Roam,2.33,1.64,,,,,3.51,progress >= 0.15
+4524.88,Info,Roam,2.27,1.79,,,,,3.60,progress >= 0.15
+4525.64,Info,RandomSweep,,,,,,,,starting
+4525.85,SweepTry,RandomSweep,2.33,1.86,5.97,0.145,1,40,,
+4525.85,Freed,RandomSweep,2.33,1.86,5.97,0.145,,,,freed=yes
+4526.61,Info,RandomSweep,,,,,,,,starting
+4526.83,SweepTry,RandomSweep,2.22,1.56,249.66,0.323,1,40,,
+4526.83,Freed,RandomSweep,2.22,1.56,249.66,0.323,,,,freed=yes
+4526.93,Info,Roam,2.16,1.40,,,,,5.65,progress >= 0.15
+4527.02,Info,Roam,2.11,1.25,,,,,5.74,progress >= 0.15
+4527.12,Info,Roam,2.05,1.10,,,,,5.84,progress >= 0.15
+4527.21,Info,Roam,1.99,0.94,,,,,5.93,progress >= 0.15
+4527.31,Info,Roam,1.93,0.78,,,,,6.03,progress >= 0.15
+4527.40,Info,Roam,1.87,0.62,,,,,6.13,progress >= 0.15
+4527.57,Info,Roam,1.77,0.48,,,,,6.29,progress >= 0.15
+4527.67,Info,Roam,1.72,0.32,,,,,6.39,progress >= 0.15
+4527.76,Info,Roam,1.66,0.16,,,,,6.48,progress >= 0.15
+4527.86,Info,Roam,1.60,0.00,,,,,6.58,progress >= 0.15
+4527.95,Info,Roam,1.54,-0.15,,,,,6.67,progress >= 0.15
+4528.05,Info,Roam,1.48,-0.30,,,,,6.77,progress >= 0.15
+4528.14,Info,Roam,1.43,-0.46,,,,,6.87,progress >= 0.15
+4528.24,Info,Roam,1.37,-0.62,,,,,6.96,progress >= 0.15
+4528.33,Info,Roam,1.31,-0.78,,,,,7.06,progress >= 0.15
+4528.43,Info,Roam,1.25,-0.93,,,,,7.15,progress >= 0.15
+4528.55,Info,Roam,1.25,-1.09,,,,,7.27,progress >= 0.15
+4528.67,Info,Roam,1.22,-1.27,,,,,7.39,progress >= 0.15
+4528.79,Info,Roam,1.13,-1.45,,,,,7.51,progress >= 0.15
+4528.89,Info,Roam,1.08,-1.60,,,,,7.61,progress >= 0.15
+4528.98,Info,Roam,1.02,-1.76,,,,,7.70,progress >= 0.15
+4529.08,Info,Roam,0.96,-1.92,,,,,7.80,progress >= 0.15
+4529.17,Escaped,Boundary,0.91,-2.06,,,,,,
+4529.17,Fail,Result,0.91,-2.06,,,,,7.90,escaped bounds

@@ -1,0 +1,37 @@
+time,event,phase,x,y,angle,dist,attempt,totalAttempts,elapsed,note
+1177.54,SessionStart,BoundaryTest,,,,,,,,"minDir=20 maxAttempts=40 attemptDur=0.20s minDistPerAttempt=0.10 roamMinDist=0.15 roamDur=0.75s leniency=102 % bounds=(-3.63,-2.04)�(3.63,2.04)"
+1177.66,Info,Roam,1.82,-1.19,,,,,0.12,progress >= 0.15
+1177.76,Info,Roam,1.93,-1.07,,,,,0.22,progress >= 0.15
+1177.85,Info,Roam,2.05,-0.96,,,,,0.32,progress >= 0.15
+1177.95,Info,Roam,2.18,-0.83,,,,,0.42,progress >= 0.15
+1178.06,Info,Roam,2.31,-0.70,,,,,0.52,progress >= 0.15
+1178.17,Info,Roam,2.44,-0.57,,,,,0.63,progress >= 0.15
+1178.26,Info,Roam,2.55,-0.46,,,,,0.72,progress >= 0.15
+1178.36,Info,Roam,2.67,-0.34,,,,,0.82,progress >= 0.15
+1178.45,Info,Roam,2.79,-0.22,,,,,0.91,progress >= 0.15
+1178.55,Info,Roam,2.90,-0.10,,,,,1.01,progress >= 0.15
+1178.64,Info,Roam,3.02,0.01,,,,,1.10,progress >= 0.15
+1178.74,Info,Roam,3.14,0.13,,,,,1.20,progress >= 0.15
+1178.83,Info,Roam,3.25,0.25,,,,,1.29,progress >= 0.15
+1179.62,Info,RandomSweep,,,,,,,,starting
+1179.83,SweepTry,RandomSweep,3.04,0.06,228.55,0.335,1,40,,
+1179.83,Freed,RandomSweep,3.04,0.06,228.55,0.335,,,,freed=yes
+1179.93,Info,Roam,2.93,-0.06,,,,,2.39,progress >= 0.15
+1180.02,Info,Roam,2.82,-0.19,,,,,2.49,progress >= 0.15
+1180.12,Info,Roam,2.71,-0.31,,,,,2.58,progress >= 0.15
+1180.22,Info,Roam,2.60,-0.44,,,,,2.68,progress >= 0.15
+1180.31,Info,Roam,2.49,-0.57,,,,,2.77,progress >= 0.15
+1180.42,Info,Roam,2.36,-0.71,,,,,2.89,progress >= 0.15
+1180.52,Info,Roam,2.25,-0.84,,,,,2.98,progress >= 0.15
+1180.61,Info,Roam,2.14,-0.96,,,,,3.08,progress >= 0.15
+1180.71,Info,Roam,2.03,-1.08,,,,,3.17,progress >= 0.15
+1180.80,Info,Roam,1.92,-1.21,,,,,3.27,progress >= 0.15
+1180.90,Info,Roam,1.81,-1.33,,,,,3.36,progress >= 0.15
+1181.00,Info,Roam,1.70,-1.46,,,,,3.46,progress >= 0.15
+1181.10,Info,Roam,1.58,-1.59,,,,,3.56,progress >= 0.15
+1181.23,Info,Roam,1.46,-1.74,,,,,3.69,progress >= 0.15
+1181.38,Info,Roam,1.34,-1.83,,,,,3.84,progress >= 0.15
+1181.52,Info,Roam,1.20,-1.89,,,,,3.99,progress >= 0.15
+1181.69,Info,Roam,1.03,-1.94,,,,,4.15,progress >= 0.15
+1181.79,Escaped,Boundary,0.93,-2.06,,,,,,
+1181.79,Fail,Result,0.93,-2.06,,,,,4.25,escaped bounds

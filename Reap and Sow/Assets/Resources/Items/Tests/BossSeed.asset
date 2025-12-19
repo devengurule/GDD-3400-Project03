@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e52116c1070292b428a18bd40222cbba, type: 3}
+  m_Name: BossSeed
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemSprite: {fileID: 7095737280897212697, guid: b906951303015be438f2b7b47083ca54, type: 3}
+  plant: {fileID: 11400000, guid: 8cea2f3e61c287b43881b1d84ef6080a, type: 2}

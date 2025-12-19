@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e0bffde2e9ce25469938787fd4aefdf, type: 3}
+  m_Name: PineCone
+  m_EditorClassIdentifier: 
+  seedlingSprite: {fileID: 6463426966509237062, guid: 70d08aed0d4d2904fa8cddcf4abae7d5, type: 3}
+  youngSprite: {fileID: 2649750802964752762, guid: 56e565f0dd877fa4384b68cb2e566c68, type: 3}
+  adultSprite: {fileID: 9044971896765865349, guid: 136ec5388b856c747af158f339c5531a, type: 3}
+  seedlingTimer: 0
+  youngTimer: 0
+  adultTimer: 0
+  drop: {fileID: 11400000, guid: c5d264dce5af51341924932c82e6a175, type: 2}

@@ -1,0 +1,50 @@
+time,event,phase,x,y,angle,dist,attempt,totalAttempts,elapsed,note
+871.69,SessionStart,BoundaryTest,,,,,,,,"minDir=20 maxAttempts=40 attemptDur=0.20s minDistPerAttempt=0.10 roamMinDist=0.15 roamDur=0.75s leniency=102 % bounds=(-3.63,-2.04)�(3.63,2.04)"
+871.83,Info,Roam,-0.40,-0.86,,,,,0.13,progress >= 0.15
+871.93,Info,Roam,-0.27,-0.73,,,,,0.23,progress >= 0.15
+872.02,Info,Roam,-0.16,-0.62,,,,,0.33,progress >= 0.15
+872.12,Info,Roam,-0.04,-0.50,,,,,0.42,progress >= 0.15
+872.21,Info,Roam,0.08,-0.38,,,,,0.51,progress >= 0.15
+872.30,Info,Roam,0.19,-0.27,,,,,0.61,progress >= 0.15
+872.47,Info,Roam,0.22,-0.12,,,,,0.77,progress >= 0.15
+872.62,Info,Roam,0.30,0.04,,,,,0.92,progress >= 0.15
+872.71,Info,Roam,0.42,0.16,,,,,1.01,progress >= 0.15
+872.80,Info,Roam,0.53,0.27,,,,,1.11,progress >= 0.15
+872.89,Info,Roam,0.64,0.39,,,,,1.20,progress >= 0.15
+872.98,Info,Roam,0.76,0.50,,,,,1.29,progress >= 0.15
+873.07,Info,Roam,0.87,0.61,,,,,1.38,progress >= 0.15
+873.17,Info,Roam,0.98,0.72,,,,,1.47,progress >= 0.15
+873.26,Info,Roam,1.10,0.84,,,,,1.56,progress >= 0.15
+873.35,Info,Roam,1.21,0.96,,,,,1.66,progress >= 0.15
+873.44,Info,Roam,1.33,1.07,,,,,1.75,progress >= 0.15
+873.54,Info,Roam,1.45,1.19,,,,,1.84,progress >= 0.15
+873.63,Info,Roam,1.56,1.30,,,,,1.94,progress >= 0.15
+873.72,Info,Roam,1.67,1.41,,,,,2.03,progress >= 0.15
+873.81,Info,Roam,1.79,1.53,,,,,2.12,progress >= 0.15
+874.05,Info,Roam,1.95,1.55,,,,,2.35,progress >= 0.15
+874.16,Info,Roam,2.09,1.66,,,,,2.46,progress >= 0.15
+874.30,Info,Roam,2.22,1.75,,,,,2.61,progress >= 0.15
+875.07,Info,RandomSweep,,,,,,,,starting
+875.28,SweepTry,RandomSweep,2.28,1.52,298.34,0.238,1,40,,
+875.28,Freed,RandomSweep,2.28,1.52,298.34,0.238,,,,freed=yes
+875.42,Info,Roam,2.32,1.37,,,,,3.72,progress >= 0.15
+875.61,Info,Roam,2.30,1.19,,,,,3.92,progress >= 0.15
+875.71,Info,Roam,2.38,1.03,,,,,4.02,progress >= 0.15
+875.80,Info,Roam,2.46,0.89,,,,,4.11,progress >= 0.15
+875.90,Info,Roam,2.54,0.75,,,,,4.20,progress >= 0.15
+875.99,Info,Roam,2.61,0.61,,,,,4.29,progress >= 0.15
+876.08,Info,Roam,2.69,0.47,,,,,4.38,progress >= 0.15
+876.17,Info,Roam,2.76,0.33,,,,,4.47,progress >= 0.15
+876.26,Info,Roam,2.84,0.19,,,,,4.57,progress >= 0.15
+876.35,Info,Roam,2.92,0.05,,,,,4.66,progress >= 0.15
+876.44,Info,Roam,2.99,-0.10,,,,,4.75,progress >= 0.15
+876.54,Info,Roam,3.07,-0.24,,,,,4.84,progress >= 0.15
+876.63,Info,Roam,3.15,-0.38,,,,,4.93,progress >= 0.15
+876.72,Info,Roam,3.22,-0.52,,,,,5.02,progress >= 0.15
+876.81,Info,Roam,3.30,-0.66,,,,,5.11,progress >= 0.15
+876.90,Info,Roam,3.37,-0.80,,,,,5.21,progress >= 0.15
+876.99,Info,Roam,3.45,-0.94,,,,,5.30,progress >= 0.15
+877.09,Info,Roam,3.53,-1.09,,,,,5.39,progress >= 0.15
+877.18,Info,Roam,3.60,-1.23,,,,,5.48,progress >= 0.15
+877.22,Escaped,Boundary,3.64,-1.30,,,,,,
+877.22,Fail,Result,3.64,-1.30,,,,,5.53,escaped bounds

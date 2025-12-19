@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56a648ee78ec6094a86d28e2d84d6809, type: 3}
+  m_Name: PineconeAmmo
+  m_EditorClassIdentifier: 
+  itemType: 4
+  itemSprite: {fileID: -6073992750960647310, guid: d2376c60fa0b550428376f1c8091bc7d, type: 3}
+  time: 0
+  aoe: 5
+  damage: 5
+  speed: 5
+  projectilePrefab: {fileID: 6972236777297394345, guid: 216a69e71a9493e2cb451b3e059b6b7f, type: 3}

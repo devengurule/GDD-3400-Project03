@@ -1,0 +1,225 @@
+{
+  "dialogues": [
+    {
+      "id": "tutorial1",
+      "lines": [
+        "Welcome!  Press any key to continue",
+        "Use [W] [A] [S] [D] to move around."
+      ]
+    },
+    {
+      "id": "tutorial2",
+      "lines": [
+        "Something is wrong here, the forest is angry!",
+		"I need to stop the corrupted plants before they destroy everything!",
+		"Press [Left Mouse Button] to attack in that direction."
+      ]
+    },
+    {
+      "id": "plantingtutorial1",
+      "lines": [
+        "These are your plots!",
+        "You can plant a seed here to grow more of them!",
+		"Use [Right Mouse Button] to plant a seed in your inventory to a plot.",
+		"Use [Left Mouse Button] to harvest a grown plant."
+      ]
+    },
+    {
+      "id": "plantingtutorial2",
+      "lines": [
+        "I think it's planted, I wonder how it will turn out?"
+      ]
+    },
+    {
+      "id": "tutorialpickup_seed",
+      "lines": [
+        "A seed? Maybe I could replant this back at the farm? [Right Mouse Button]",
+	"Press [Right Mouse Button] to use an item in your inventory.",
+	"Press [Q] or [E] to cycle through your selected items"
+      ]
+    },
+    {
+      "id": "tutorialpickup_health",
+      "lines": [
+        "This kind of looks like a heart...",
+        "Maybe I can use this [Right Mouse Button] to patch myself up when I'm hurt.",
+        "I will have to be holding this to use it though..."
+      ]
+    },
+    {
+      "id": "improper_health_use",
+      "lines": [
+        "I don't need to use this right now, I'm not hurt at the moment"
+      ]
+    },
+    {
+      "id": "tutorialpickup_thorn",
+      "lines": [
+        "This looks like the thorns those plants spit at me!",
+        "I can throw this back at them! ",
+		"(Select the thorn item and throw with [Right Mouse Button])"
+      ]
+    },
+    {
+      "id": "tutorialpickup_pineconegrenade",
+      "lines": [
+        "This looks like it would shatter into pieces after a decent impact!",
+        "I can throw this at an area and hit a group of them!",
+	"(Select the pinecone grenade item and throw with [Right Mouse Button])"
+      ]
+    },
+    {
+      "id": "tutorialpickup_flammenbaumbarrier",
+      "lines": [
+        "This looks like it could be used to further protect myself!",
+        "It might improve how much of the plants' attacks are blocked!",
+	"(Select the flammenbaum barrier item and use with [Right Mouse Button])"
+      ]
+    },
+    {
+      "id": "tutorialpickup_attentionclasp",
+      "lines": [
+        "Errgggghh! This causes a terrible feeling  that makes me want to destroy it!",
+        "It would probably focus the attention of some of those plants to it and leave me to be for a bit!",
+	"(Select the attention clasp and place with [Right Mouse Button])"
+      ]
+    },
+    {
+      "id": "tutorialpickup_cloudedgrenade",
+      "lines": [
+        "This seems to have the same roots as the corpse flower, meaning this may contain a poisonous gas inside it.",
+        "If I throw it hard it should be able to break and leave a cloud behind!",
+	"(Select the clouded grenade item and place with [Right Mouse Button])"
+      ]
+    },
+    {
+      "id": "bossroomahead",
+      "lines": [
+        "This area seems more threatening.",
+        "Should I still proceed further?"
+      ]
+    },
+    {
+      "id": "returntofarm",
+      "lines": [
+        "Home Sweet Home!",
+        "It's nice to be back."
+      ]
+    },
+    {
+      "id": "intoforest",
+      "lines": [
+        "What will I find in here?",
+	"Will I stay out long enough to see what has been making those noises at night?"
+      ]
+    },
+    {
+      "id": "everythingsofarsummary",
+      "lines": [
+        "When Gilroy was a child, he discovered a unique plant.", 
+	"It was Gilroy's favorite plant and got him to be recognized in the neighborhood.",
+	"Due to that increased attention, there were a lot of peers who scorned him.",
+	"He had then lost his plant due to others either stealing or destroying it.",
+	"Despite this, Gilroy makes it all the way through college and recieves a letter.",
+	"It tells him that he will be inheriting the farm he lived in as a child.",
+	"When he returns, he sees the farm in disarray and his favorite plant missing.",
+	"He then decides \"I will protect my home from this corruption.\"",
+	"He picks up his shovel and heads into the forest."
+      ]
+    },
+    {
+      "id": "findingalmanac",
+      "lines": [
+        "What is... Oh, father's almanac.",
+	"I could use this to document those plants I have seen and grown."
+      ]
+    },
+    {
+      "id": "unabletoplant",
+      "lines": [
+        "I can't plant this item!"
+      ]
+    },
+    {
+      "id": "invalidplantspace",
+      "lines": [
+        "I can't plant this here!",
+        "I have to be at a plot to plant seeds."
+      ]
+    },
+    {
+      "id": "earlyharvest",
+      "lines": [
+        "It's a better idea to wait until the plants are fully grown to harvest them."
+      ]
+    },
+    {
+      "id": "respawn1",
+      "lines": [
+        "\"You can do it.\""
+      ]
+    },
+    {
+      "id": "respawn2",
+      "lines": [
+        "\"You will grow strong, keep trying.\""
+      ]
+    },
+    {
+      "id": "respawn3",
+      "lines": [
+        "\"I can't wait to see what you become.\""
+      ]
+    },
+    {
+      "id": "respawnresponse",
+      "lines": [
+        "What just h-...",
+	"I... Died?.."
+      ]
+    },
+    {
+      "id": "respawnresponse2",
+      "lines": [
+        "Did that just happen?",
+	"Even though I seem fine physically, that felt real."
+      ]
+    },
+    {
+      "id": "respawnresponse3",
+      "lines": [
+        "Who was talking to me?",
+	"Why did what they say sound familiar?"
+      ]
+    },
+    {
+      "id": "lenord",
+      "lines": [
+        "Ah, I see you've made it...so far from home aren't we?",
+        "And you have brought much flesh, even that of your own",
+        "Well isn't that just delightful",
+        "...",
+        "No no don't be shy, I've had my fill already",
+        "Isn't this place wonderful, there's grub everywhere",
+        "...",
+        "...",
+        "Don't mind my friend, he...er...she?",
+        "It began following me some time ago",
+        "Though it doesn't bother me one bit",
+        "My stomachs as been much happier since our meeting",
+        "...",
+        "Perhaps when you're done with whatever it is your doing, you could come back and pay me a visit",
+        "Where?...oh yes of course",
+        "Make your trek into this wonderous feast of a forest",
+        "Do be sure to watch your step, it can be wet where it looks dry",
+        "And dry where it looks wet",
+        "Although that might have been me salivating?",
+        "...",
+        "You must be going now, I am certain we will meet again",
+        "...",
+        "We will meat again",
+        "..."
+      ]
+    }
+  ]
+}

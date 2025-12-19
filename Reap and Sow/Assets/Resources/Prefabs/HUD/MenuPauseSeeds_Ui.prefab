@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2887951071152612729
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5591139703805876917}
+  - component: {fileID: 8571353785546512912}
+  - component: {fileID: 809272224845510855}
+  m_Layer: 0
+  m_Name: MenuPauseSeeds_Ui
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5591139703805876917
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2887951071152612729}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 379.09875, y: 89.24578, z: -18.510046}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8571353785546512912
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2887951071152612729}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 19102, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_PanelSettings: {fileID: 11400000, guid: be3d1ac23f4721c4fadba0c97ecede56, type: 2}
+  m_ParentUI: {fileID: 0}
+  sourceAsset: {fileID: 0}
+  m_SortingOrder: 0
+  m_WorldSpaceSizeMode: 1
+  m_WorldSpaceWidth: 1920
+  m_WorldSpaceHeight: 1080
+--- !u!114 &809272224845510855
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2887951071152612729}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 024e61fc1e34d414e983b1fd5d3dcea4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PausePanel: {fileID: 0}
+  SeedsPanel: {fileID: 2887951071152612729}
+  enemyPanel: {fileID: 0}
+  spriteArray:
+  - {fileID: -5595764455934311071, guid: f513a6cfc44db92489ba44ef92e282ca, type: 3}
+  - {fileID: 7382687442789277141, guid: 72962011592c4cd47bab1ec30a121235, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  titleTextArray:
+  - Acorn
+  - Leaf Life
+  - 
+  - 
+  bottomTextArray:
+  - The Crawling Thornslinger drops this seed as it dies. After planting it on the
+    farm, the seed grows into a docile plant that when harvested drops thorns instead
+    of other seeds. These thorns are useful for dealing with enemies at a distance.
+  - Heals the user
+  - 
+  - 
+  hoverClip: 26
+  clickClip: 24

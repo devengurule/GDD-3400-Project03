@@ -1,0 +1,5 @@
+time,event,phase,x,y,angle,dist,attempt,totalAttempts,elapsed,note
+3645.57,SessionStart,BoundaryTest,,,,,,,,"minDir=20 maxAttempts=40 attemptDur=0.20s minDistPerAttempt=0.10 roamMinDist=0.15 roamDur=0.75s leniency=102 % bounds=(-3.63,-2.04)�(3.63,2.04)"
+3645.71,Info,Roam,-1.15,2.00,,,,,0.15,progress >= 0.15
+3645.77,Escaped,Boundary,-1.09,2.07,,,,,,
+3645.77,Fail,Result,-1.09,2.07,,,,,0.20,escaped bounds

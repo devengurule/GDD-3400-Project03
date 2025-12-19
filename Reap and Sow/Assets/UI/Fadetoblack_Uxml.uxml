@@ -1,0 +1,5 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/basebuttonmenu.uss?fileID=7433441132597879392&amp;guid=d8582023a539a3e4c9c3aea240ef29ee&amp;type=3#basebuttonmenu" />
+    <Style src="project://database/Assets/UI/Fadetoblackborder.uss?fileID=7433441132597879392&amp;guid=59eb76b09097ceb419aeeef5a0b29f64&amp;type=3#Fadetoblackborder" />
+    <engine:VisualElement name="Fade" enabled="true" class="fade-in fade-out" style="flex-grow: 1;" />
+</engine:UXML>

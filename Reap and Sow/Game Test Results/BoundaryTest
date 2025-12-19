@@ -1,0 +1,3 @@
+time,event,phase,x,y,angle,dist,attempt,totalAttempts,elapsed,note
+0.00,Cancelled,Result,0.00,0.00,,,,,0.00,test manually stopped
+0.00,Cancelled,Result,0.00,0.00,,,,,0.00,test manually stopped

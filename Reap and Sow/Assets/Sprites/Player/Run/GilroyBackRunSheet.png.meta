@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: 53a573e21fbf4d24da7b19190df18283
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 361207268570354396
+    second: GilroyBackRunSheet 1_0
+  - first:
+      213: -1795084718166148235
+    second: GilroyBackRunSheet 1_1
+  - first:
+      213: 6055460175873235938
+    second: GilroyBackRunSheet 1_2
+  - first:
+      213: -953566196013880356
+    second: GilroyBackRunSheet 1_3
+  - first:
+      213: -1573141944526697474
+    second: GilroyBackRunSheet 1_4
+  - first:
+      213: -2765364226496592725
+    second: GilroyBackRunSheet 1_5
+  - first:
+      213: 873750448975441315
+    second: GilroyBackRunSheet 1_6
+  - first:
+      213: -8247415078706892060
+    second: GilroyBackRunSheet 1_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GilroyBackRunSheet 1_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 37
+        width: 25
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.421875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2dc65d814430500800000000000000
+      internalID: 361207268570354396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GilroyBackRunSheet 1_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 37
+        width: 25
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3970588}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b79f7a5f39617e0800000000000000
+      internalID: -1795084718166148235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GilroyBackRunSheet 1_2
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 36
+        width: 25
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebd27e52f0590450800000000000000
+      internalID: 6055460175873235938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GilroyBackRunSheet 1_3
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 37
+        width: 23
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4354839}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdba5c0d89044c2f0800000000000000
+      internalID: -953566196013880356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GilroyBackRunSheet 1_4
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 37
+        width: 25
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.421875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb083f7cb31b2ae0800000000000000
+      internalID: -1573141944526697474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GilroyBackRunSheet 1_5
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 37
+        width: 25
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3970588}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4091533e37f99d0800000000000000
+      internalID: -2765364226496592725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GilroyBackRunSheet 1_6
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 36
+        width: 25
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ade48d676f202c00800000000000000
+      internalID: 873750448975441315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GilroyBackRunSheet 1_7
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 37
+        width: 23
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4354839}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2b97ebeab4b8d80800000000000000
+      internalID: -8247415078706892060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5a77219f1276e244b8d47e84c77928ad
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GilroyBackRunSheet 1_0: 361207268570354396
+      GilroyBackRunSheet 1_1: -1795084718166148235
+      GilroyBackRunSheet 1_2: 6055460175873235938
+      GilroyBackRunSheet 1_3: -953566196013880356
+      GilroyBackRunSheet 1_4: -1573141944526697474
+      GilroyBackRunSheet 1_5: -2765364226496592725
+      GilroyBackRunSheet 1_6: 873750448975441315
+      GilroyBackRunSheet 1_7: -8247415078706892060
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

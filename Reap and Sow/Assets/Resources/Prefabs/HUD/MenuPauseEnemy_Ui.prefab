@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4868138551676691111
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6037674077998236184}
+  - component: {fileID: 8885284235321806075}
+  - component: {fileID: 896316592232690469}
+  m_Layer: 5
+  m_Name: MenuPauseEnemy_Ui
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6037674077998236184
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4868138551676691111}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8885284235321806075
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4868138551676691111}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 19102, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_PanelSettings: {fileID: 11400000, guid: be3d1ac23f4721c4fadba0c97ecede56, type: 2}
+  m_ParentUI: {fileID: 0}
+  sourceAsset: {fileID: 9197481963319205126, guid: ddf01fa9237561b4ab4402f50edf3c53, type: 3}
+  m_SortingOrder: 0
+  m_WorldSpaceSizeMode: 1
+  m_WorldSpaceWidth: 1920
+  m_WorldSpaceHeight: 1080
+--- !u!114 &896316592232690469
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4868138551676691111}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53c718a067c02da46860c64964dc10b9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pausePanel: {fileID: 0}
+  seedsPanel: {fileID: 0}
+  enemyPanel: {fileID: 4868138551676691111}
+  spriteArray:
+  - {fileID: 3497851442859531882, guid: 6ff44891f96495f419804104e172f550, type: 3}
+  - {fileID: 1272945118565172085, guid: c19269ede027cfa48acfbac4d454104c, type: 3}
+  - {fileID: -1259408508766424310, guid: f5779f5d2ee57e540aa4bc1015587eb9, type: 3}
+  - {fileID: -1578436573039742419, guid: 1cc3c2521928eaa45b5fb9a53abe856d, type: 3}
+  - {fileID: 8028454067365900133, guid: fe93620fd1ab4934db9cd6c585a04b47, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  titleTextArray:
+  - Crawling Thornslinger
+  - Slime
+  - Pinecone Grenadier
+  - Dandi-lion
+  - Cerberus Thornplant
+  - 
+  - Chimneyheart
+  - Fire Ants
+  - 2nd boss
+  - Icarus Legtrap
+  - Corpsebloom
+  - 
+  bottomTextArray:
+  - This plant is quite different from any that I have experience with, as none that
+    I know act with such ferocity to actively kill a target. These soldiers always
+    try to keep their distance and fire at me, however they are quite slow. My previous
+    work in botany tells me this forest warps the known logic of plants.
+  - "This is quite the odd creature. I don\u2019t recognize it to be similar to any
+    wildlife or plants that I know of. It does seem to be aggressive as it charges
+    at me when it notices my presence. It seems to have healing properties, but is
+    unable to use them itself. I wonder how a creature like this came to be and why
+    it heals those who consume it?"
+  - When I first encountered this plant, I saw that it was shaking but saw nothing
+    else nearby till some pinecones dropped. This plant produces pinecones that are
+    different from pinecones outside the forest. These pinecones have explosive properties
+    that I suspect come from the seeds inside the pinecones. The Pinecone Grenadier
+    shakes itself in ways unlike other trees, allowing it to release its pinecones
+    with no care for what is nearby.
+  - "While this lion has been altered by the forest, it still maintained its usual
+    hunting behaviors when I encountered it. They stalked from a distance and struck
+    at moments I didn\u2019t expect with a burst of speed. The best I could do was
+    to keep moving. It seems that the forest has changed its fur to green and covered
+    it in purple vines."
+  - When I first saw this plant, I immediately noticed the similarities it shares
+    with the Crawling Thornslinger, though it has grown in height to a massive degree.
+    Also, unlike the crawling thornslinger, this plant has 3 heads that all work
+    together to attack. Its third head, a giant eye, was also protected until I killed
+    the other two heads, though it was not as strong.
+  - 
+  - Flames were something that were terrifying the first time I saw them when encountering
+    this plant. It uses the other trees around here to shoot flaming wood projectiles.
+    It has a hole in the heartwood that it uses to launch the projectiles.
+  - "This group of ants is quite different from the ones outside this forest. I\u2019ve
+    seen them group up together in random places and generate flame tornadoes. Unfortunately,
+    their size stops me from landing a hit. Luckily though, they have no true target.
+    I should keep an eye out for any groups forming."
+  - "This plant was much more dangerous than the others that I have encountered.
+    It might have been what caused this part of the forest to have all of the\u2026
+    damage. It used fire to keep me away from it and would attack with fire tornadoes.
+    I was lucky that it was low on fuel, as otherwise I don\u2019t think I could
+    have ever attacked it."
+  - Unlike the Venus Flytrap, which references beauty to lure in food, this species
+    is known as the Icarus Legtrap, to warn others to keep a distance. Different
+    from the Venus Flytrap, this plant moves around to different positions to replant
+    itself and wait for prey to approach, which is what I should keep an eye out
+    for.
+  - "This Corpsebloom is quite different from the version outside these forests.
+    The smell of this Corpsebloom is life threatening, as my first smell of it caused
+    me serious pain. I\u2019ve come across this plant hanging off of different structures
+    such as trees or walls."
+  - 
+  hoverClip: 0
+  clickClip: 0
